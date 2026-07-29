@@ -158,3 +158,7 @@ with open(out_path, "w") as f:
     json.dump(output, f)
 
 print(f"✓ Saved to {out_path}")
+
+next_cmd = f'python scrape_match_details.py {LEAGUE_KEY}_{SEASON_SLUG}_fixtures.json raw_json/{LEAGUE_KEY}_{SEASON_SLUG} "{LEAGUE_NAME}"'
+print(f"\nNext step — scrape match details:")
+print(f"  {next_cmd}")
