@@ -1,0 +1,976 @@
+[
+  {
+    "id": 42,
+    "name": "Champions League",
+    "country": "INT",
+    "type": "continental"
+  },
+  {
+    "id": 73,
+    "name": "Europa League",
+    "country": "INT",
+    "type": "continental"
+  },
+  {
+    "id": 10216,
+    "name": "Conference League",
+    "country": "INT",
+    "type": "continental"
+  },
+  {
+    "id": 45,
+    "name": "Copa Libertadores",
+    "country": "INT",
+    "type": "continental"
+  },
+  {
+    "id": 299,
+    "name": "Copa Sudamericana",
+    "country": "INT",
+    "type": "continental"
+  },
+  {
+    "id": 525,
+    "name": "AFC Champions League Elite",
+    "country": "INT",
+    "type": "continental"
+  },
+  {
+    "id": 297,
+    "name": "CONCACAF Champions Cup",
+    "country": "INT",
+    "type": "continental"
+  },
+  {
+    "id": 526,
+    "name": "CAF Champions League",
+    "country": "INT",
+    "type": "continental"
+  },
+  {
+    "id": 78,
+    "name": "FIFA Club World Cup",
+    "country": "INT",
+    "type": "continental"
+  },
+  {
+    "id": 47,
+    "name": "Premier League",
+    "country": "ENG",
+    "country_name": "England",
+    "type": "league",
+    "player_count": 199
+  },
+  {
+    "id": 48,
+    "name": "Championship",
+    "country": "ENG",
+    "country_name": "England",
+    "type": "league",
+    "player_count": 199
+  },
+  {
+    "id": 132,
+    "name": "FA Cup",
+    "country": "ENG",
+    "country_name": "England",
+    "type": "cup",
+    "player_count": 199
+  },
+  {
+    "id": 133,
+    "name": "EFL Cup",
+    "country": "ENG",
+    "country_name": "England",
+    "type": "cup",
+    "player_count": 199
+  },
+  {
+    "id": 54,
+    "name": "Bundesliga",
+    "country": "GER",
+    "country_name": "Germany",
+    "type": "league",
+    "player_count": 114
+  },
+  {
+    "id": 209,
+    "name": "DFB Pokal",
+    "country": "GER",
+    "country_name": "Germany",
+    "type": "cup",
+    "player_count": 114
+  },
+  {
+    "id": 53,
+    "name": "Ligue 1",
+    "country": "FRA",
+    "country_name": "France",
+    "type": "league",
+    "player_count": 89
+  },
+  {
+    "id": 134,
+    "name": "Coupe de France",
+    "country": "FRA",
+    "country_name": "France",
+    "type": "cup",
+    "player_count": 89
+  },
+  {
+    "id": 87,
+    "name": "LaLiga",
+    "country": "ESP",
+    "country_name": "Spain",
+    "type": "league",
+    "player_count": 86
+  },
+  {
+    "id": 138,
+    "name": "Copa del Rey",
+    "country": "ESP",
+    "country_name": "Spain",
+    "type": "cup",
+    "player_count": 86
+  },
+  {
+    "id": 55,
+    "name": "Serie A",
+    "country": "ITA",
+    "country_name": "Italy",
+    "type": "league",
+    "player_count": 83
+  },
+  {
+    "id": 141,
+    "name": "Coppa Italia",
+    "country": "ITA",
+    "country_name": "Italy",
+    "type": "cup",
+    "player_count": 83
+  },
+  {
+    "id": 130,
+    "name": "MLS",
+    "country": "USA",
+    "country_name": "United States",
+    "type": "league",
+    "player_count": 54
+  },
+  {
+    "id": 9441,
+    "name": "Open Cup",
+    "country": "USA",
+    "country_name": "United States",
+    "type": "cup",
+    "player_count": 54
+  },
+  {
+    "id": 536,
+    "name": "Saudi Pro League",
+    "country": "KSA",
+    "country_name": "Saudi Arabia",
+    "type": "league",
+    "player_count": 52
+  },
+  {
+    "id": 9942,
+    "name": "King's Cup",
+    "country": "KSA",
+    "country_name": "Saudi Arabia",
+    "type": "cup",
+    "player_count": 52
+  },
+  {
+    "id": 230,
+    "name": "Liga MX",
+    "country": "MEX",
+    "country_name": "Mexico",
+    "type": "league",
+    "player_count": 49
+  },
+  {
+    "id": 71,
+    "name": "S\u00fcper Lig",
+    "country": "TUR",
+    "country_name": "Turkiye",
+    "type": "league",
+    "player_count": 48
+  },
+  {
+    "id": 151,
+    "name": "Turkish Cup",
+    "country": "TUR",
+    "country_name": "Turkiye",
+    "type": "cup",
+    "player_count": 48
+  },
+  {
+    "id": 57,
+    "name": "Eredivisie",
+    "country": "NED",
+    "country_name": "Netherlands",
+    "type": "league",
+    "player_count": 44
+  },
+  {
+    "id": 235,
+    "name": "KNVB Cup",
+    "country": "NED",
+    "country_name": "Netherlands",
+    "type": "cup",
+    "player_count": 44
+  },
+  {
+    "id": 535,
+    "name": "Qatar Stars League",
+    "country": "QAT",
+    "country_name": "Qatar",
+    "type": "league",
+    "player_count": 37
+  },
+  {
+    "id": 61,
+    "name": "Liga Portugal",
+    "country": "POR",
+    "country_name": "Portugal",
+    "type": "league",
+    "player_count": 36
+  },
+  {
+    "id": 186,
+    "name": "Ta\u00e7a de Portugal",
+    "country": "POR",
+    "country_name": "Portugal",
+    "type": "cup",
+    "player_count": 36
+  },
+  {
+    "id": 268,
+    "name": "Serie A",
+    "country": "BRA",
+    "country_name": "Brazil",
+    "type": "league",
+    "player_count": 34
+  },
+  {
+    "id": 9067,
+    "name": "Copa do Brasil",
+    "country": "BRA",
+    "country_name": "Brazil",
+    "type": "cup",
+    "player_count": 34
+  },
+  {
+    "id": 40,
+    "name": "First Division A",
+    "country": "BEL",
+    "country_name": "Belgium",
+    "type": "league",
+    "player_count": 33
+  },
+  {
+    "id": 149,
+    "name": "Belgian Cup",
+    "country": "BEL",
+    "country_name": "Belgium",
+    "type": "cup",
+    "player_count": 33
+  },
+  {
+    "id": 523,
+    "name": "Persian Gulf",
+    "country": "IRN",
+    "country_name": "Iran",
+    "type": "league",
+    "player_count": 27
+  },
+  {
+    "id": 9487,
+    "name": "Hazfi Cup",
+    "country": "IRN",
+    "country_name": "Iran",
+    "type": "cup",
+    "player_count": 27
+  },
+  {
+    "id": 519,
+    "name": "Premier League",
+    "country": "EGY",
+    "country_name": "Egypt",
+    "type": "league",
+    "player_count": 22
+  },
+  {
+    "id": 9941,
+    "name": "Egypt Cup",
+    "country": "EGY",
+    "country_name": "Egypt",
+    "type": "cup",
+    "player_count": 22
+  },
+  {
+    "id": 122,
+    "name": "1. Liga",
+    "country": "CZE",
+    "country_name": "Czechia",
+    "type": "league",
+    "player_count": 21
+  },
+  {
+    "id": 254,
+    "name": "Czech Cup",
+    "country": "CZE",
+    "country_name": "Czechia",
+    "type": "cup",
+    "player_count": 21
+  },
+  {
+    "id": 64,
+    "name": "Premiership",
+    "country": "SCO",
+    "country_name": "Scotland",
+    "type": "league",
+    "player_count": 20
+  },
+  {
+    "id": 137,
+    "name": "Scottish Cup",
+    "country": "SCO",
+    "country_name": "Scotland",
+    "type": "cup",
+    "player_count": 20
+  },
+  {
+    "id": 180,
+    "name": "League Cup",
+    "country": "SCO",
+    "country_name": "Scotland",
+    "type": "cup",
+    "player_count": 20
+  },
+  {
+    "id": 112,
+    "name": "Liga Profesional",
+    "country": "ARG",
+    "country_name": "Argentina",
+    "type": "league",
+    "player_count": 20
+  },
+  {
+    "id": 9305,
+    "name": "Copa Argentina",
+    "country": "ARG",
+    "country_name": "Argentina",
+    "type": "cup",
+    "player_count": 20
+  },
+  {
+    "id": 10007,
+    "name": "Copa de la Liga Profesional",
+    "country": "ARG",
+    "country_name": "Argentina",
+    "type": "cup",
+    "player_count": 20
+  },
+  {
+    "id": 9039,
+    "name": "LPF",
+    "country": "PAN",
+    "country_name": "Panama",
+    "type": "league",
+    "player_count": 19
+  },
+  {
+    "id": 540,
+    "name": "Superliga",
+    "country": "UZB",
+    "country_name": "Uzbekistan",
+    "type": "league",
+    "player_count": 18
+  },
+  {
+    "id": 46,
+    "name": "Superligaen",
+    "country": "DEN",
+    "country_name": "Denmark",
+    "type": "league",
+    "player_count": 17
+  },
+  {
+    "id": 242,
+    "name": "DBU Pokalen",
+    "country": "DEN",
+    "country_name": "Denmark",
+    "type": "cup",
+    "player_count": 17
+  },
+  {
+    "id": 537,
+    "name": "Premier Soccer League",
+    "country": "RSA",
+    "country_name": "South Africa",
+    "type": "league",
+    "player_count": 17
+  },
+  {
+    "id": 9473,
+    "name": "Nedbank Cup",
+    "country": "RSA",
+    "country_name": "South Africa",
+    "type": "cup",
+    "player_count": 17
+  },
+  {
+    "id": 524,
+    "name": "Stars League",
+    "country": "IRQ",
+    "country_name": "Iraq",
+    "type": "league",
+    "player_count": 16
+  },
+  {
+    "id": 538,
+    "name": "Pro League",
+    "country": "UAE",
+    "country_name": "United Arab Emirates",
+    "type": "league",
+    "player_count": 15
+  },
+  {
+    "id": 9943,
+    "name": "UAE Cup",
+    "country": "UAE",
+    "country_name": "United Arab Emirates",
+    "type": "cup",
+    "player_count": 15
+  },
+  {
+    "id": 63,
+    "name": "Premier League",
+    "country": "RUS",
+    "country_name": "Russia",
+    "type": "league",
+    "player_count": 13
+  },
+  {
+    "id": 193,
+    "name": "Russian Cup",
+    "country": "RUS",
+    "country_name": "Russia",
+    "type": "cup",
+    "player_count": 13
+  },
+  {
+    "id": 69,
+    "name": "Super League",
+    "country": "SUI",
+    "country_name": "Switzerland",
+    "type": "league",
+    "player_count": 13
+  },
+  {
+    "id": 164,
+    "name": "Swiss Cup",
+    "country": "SUI",
+    "country_name": "Switzerland",
+    "type": "cup",
+    "player_count": 13
+  },
+  {
+    "id": 135,
+    "name": "Super League 1",
+    "country": "GRE",
+    "country_name": "Greece",
+    "type": "league",
+    "player_count": 10
+  },
+  {
+    "id": 145,
+    "name": "Greece Cup",
+    "country": "GRE",
+    "country_name": "Greece",
+    "type": "cup",
+    "player_count": 10
+  },
+  {
+    "id": 8870,
+    "name": "Championship",
+    "country": "NZL",
+    "country_name": "New Zealand",
+    "type": "league",
+    "player_count": 10
+  },
+  {
+    "id": 59,
+    "name": "Eliteserien",
+    "country": "NOR",
+    "country_name": "Norway",
+    "type": "league",
+    "player_count": 10
+  },
+  {
+    "id": 206,
+    "name": "Norgesmesterskapet",
+    "country": "NOR",
+    "country_name": "Norway",
+    "type": "cup",
+    "player_count": 10
+  },
+  {
+    "id": 136,
+    "name": "1. Division",
+    "country": "CYP",
+    "country_name": "Cyprus",
+    "type": "league",
+    "player_count": 9
+  },
+  {
+    "id": 330,
+    "name": "Cyprus Cup",
+    "country": "CYP",
+    "country_name": "Cyprus",
+    "type": "cup",
+    "player_count": 9
+  },
+  {
+    "id": 252,
+    "name": "HNL",
+    "country": "CRO",
+    "country_name": "Croatia",
+    "type": "league",
+    "player_count": 9
+  },
+  {
+    "id": 275,
+    "name": "Croatian Cup",
+    "country": "CRO",
+    "country_name": "Croatia",
+    "type": "cup",
+    "player_count": 9
+  },
+  {
+    "id": 223,
+    "name": "J. League",
+    "country": "JPN",
+    "country_name": "Japan",
+    "type": "league",
+    "player_count": 7
+  },
+  {
+    "id": 9011,
+    "name": "Emperor Cup",
+    "country": "JPN",
+    "country_name": "Japan",
+    "type": "cup",
+    "player_count": 7
+  },
+  {
+    "id": 224,
+    "name": "J. League Cup",
+    "country": "JPN",
+    "country_name": "Japan",
+    "type": "cup",
+    "player_count": 7
+  },
+  {
+    "id": 38,
+    "name": "Bundesliga",
+    "country": "AUT",
+    "country_name": "Austria",
+    "type": "league",
+    "player_count": 7
+  },
+  {
+    "id": 278,
+    "name": "Austrian Cup",
+    "country": "AUT",
+    "country_name": "Austria",
+    "type": "cup",
+    "player_count": 7
+  },
+  {
+    "id": 9837,
+    "name": "Canadian Championship",
+    "country": "CAN",
+    "country_name": "Canada",
+    "type": "cup",
+    "player_count": 7
+  },
+  {
+    "id": 113,
+    "name": "A-League",
+    "country": "AUS",
+    "country_name": "Australia",
+    "type": "league",
+    "player_count": 7
+  },
+  {
+    "id": 9471,
+    "name": "Australia Cup",
+    "country": "AUS",
+    "country_name": "Australia",
+    "type": "cup",
+    "player_count": 7
+  },
+  {
+    "id": 196,
+    "name": "Ekstraklasa",
+    "country": "POL",
+    "country_name": "Poland",
+    "type": "league",
+    "player_count": 6
+  },
+  {
+    "id": 198,
+    "name": "Puchar Polski",
+    "country": "POL",
+    "country_name": "Poland",
+    "type": "cup",
+    "player_count": 6
+  },
+  {
+    "id": 246,
+    "name": "Serie A",
+    "country": "ECU",
+    "country_name": "Ecuador",
+    "type": "league",
+    "player_count": 6
+  },
+  {
+    "id": 199,
+    "name": "Division Profesional",
+    "country": "PAR",
+    "country_name": "Paraguay",
+    "type": "league",
+    "player_count": 6
+  },
+  {
+    "id": 127,
+    "name": "Ligat ha'Al",
+    "country": "ISR",
+    "country_name": "Israel",
+    "type": "league",
+    "player_count": 6
+  },
+  {
+    "id": 9097,
+    "name": "State Cup",
+    "country": "ISR",
+    "country_name": "Israel",
+    "type": "cup",
+    "player_count": 6
+  },
+  {
+    "id": 9080,
+    "name": "K League 1",
+    "country": "KOR",
+    "country_name": "South Korea",
+    "type": "league",
+    "player_count": 5
+  },
+  {
+    "id": 9551,
+    "name": "Cup",
+    "country": "KOR",
+    "country_name": "South Korea",
+    "type": "cup",
+    "player_count": 5
+  },
+  {
+    "id": 116,
+    "name": "Cymru Premier",
+    "country": "WAL",
+    "country_name": "Wales",
+    "type": "league",
+    "player_count": 5
+  },
+  {
+    "id": 9166,
+    "name": "Welsh Cup",
+    "country": "WAL",
+    "country_name": "Wales",
+    "type": "cup",
+    "player_count": 5
+  },
+  {
+    "id": 67,
+    "name": "Allsvenskan",
+    "country": "SWE",
+    "country_name": "Sweden",
+    "type": "league",
+    "player_count": 5
+  },
+  {
+    "id": 171,
+    "name": "Svenska Cupen",
+    "country": "SWE",
+    "country_name": "Sweden",
+    "type": "cup",
+    "player_count": 5
+  },
+  {
+    "id": 273,
+    "name": "Liga de Primera",
+    "country": "CHI",
+    "country_name": "Chile",
+    "type": "league",
+    "player_count": 4
+  },
+  {
+    "id": 9091,
+    "name": "Copa Chile",
+    "country": "CHI",
+    "country_name": "Chile",
+    "type": "cup",
+    "player_count": 4
+  },
+  {
+    "id": 544,
+    "name": "Ligue I",
+    "country": "TUN",
+    "country_name": "Tunisia",
+    "type": "league",
+    "player_count": 4
+  },
+  {
+    "id": 530,
+    "name": "Botola Pro",
+    "country": "MAR",
+    "country_name": "Morocco",
+    "type": "league",
+    "player_count": 4
+  },
+  {
+    "id": 11840,
+    "name": "Cup",
+    "country": "MAR",
+    "country_name": "Morocco",
+    "type": "cup",
+    "player_count": 4
+  },
+  {
+    "id": 8985,
+    "name": "Liga Super",
+    "country": "MAS",
+    "country_name": "Malaysia",
+    "type": "league",
+    "player_count": 3
+  },
+  {
+    "id": 212,
+    "name": "Nemzeti Bajnoks\u00e1g I",
+    "country": "HUN",
+    "country_name": "Hungary",
+    "type": "league",
+    "player_count": 3
+  },
+  {
+    "id": 213,
+    "name": "Magyar Kupa",
+    "country": "HUN",
+    "country_name": "Hungary",
+    "type": "cup",
+    "player_count": 3
+  },
+  {
+    "id": 339,
+    "name": "Primera Division",
+    "country": "VEN",
+    "country_name": "Venezuela",
+    "type": "league",
+    "player_count": 3
+  },
+  {
+    "id": 182,
+    "name": "Super Liga",
+    "country": "SRB",
+    "country_name": "Serbia",
+    "type": "league",
+    "player_count": 2
+  },
+  {
+    "id": 183,
+    "name": "Kup Srbije",
+    "country": "SRB",
+    "country_name": "Serbia",
+    "type": "cup",
+    "player_count": 2
+  },
+  {
+    "id": 189,
+    "name": "Liga I",
+    "country": "ROU",
+    "country_name": "Romania",
+    "type": "league",
+    "player_count": 2
+  },
+  {
+    "id": 190,
+    "name": "Cupa Rom\u00e2niei",
+    "country": "ROU",
+    "country_name": "Romania",
+    "type": "cup",
+    "player_count": 2
+  },
+  {
+    "id": 274,
+    "name": "Primera A",
+    "country": "COL",
+    "country_name": "Colombia",
+    "type": "league",
+    "player_count": 2
+  },
+  {
+    "id": 270,
+    "name": "First Professional League",
+    "country": "BUL",
+    "country_name": "Bulgaria",
+    "type": "league",
+    "player_count": 2
+  },
+  {
+    "id": 126,
+    "name": "Premier Division",
+    "country": "IRL",
+    "country_name": "Ireland",
+    "type": "league",
+    "player_count": 2
+  },
+  {
+    "id": 219,
+    "name": "FAI Cup",
+    "country": "IRL",
+    "country_name": "Ireland",
+    "type": "cup",
+    "player_count": 2
+  },
+  {
+    "id": 337,
+    "name": "Liga Nacional",
+    "country": "HON",
+    "country_name": "Honduras",
+    "type": "league",
+    "player_count": 2
+  },
+  {
+    "id": 121,
+    "name": "Primera Division",
+    "country": "CRC",
+    "country_name": "Costa Rica",
+    "type": "league",
+    "player_count": 2
+  },
+  {
+    "id": 516,
+    "name": "Ligue 1",
+    "country": "ALG",
+    "country_name": "Algeria",
+    "type": "league",
+    "player_count": 2
+  },
+  {
+    "id": 120,
+    "name": "Super League",
+    "country": "CHN",
+    "country_name": "China",
+    "type": "league",
+    "player_count": 1
+  },
+  {
+    "id": 9550,
+    "name": "Chinese FA Cup",
+    "country": "CHN",
+    "country_name": "China",
+    "type": "cup",
+    "player_count": 1
+  },
+  {
+    "id": 225,
+    "name": "Premier League",
+    "country": "KAZ",
+    "country_name": "Kazakhstan",
+    "type": "league",
+    "player_count": 1
+  },
+  {
+    "id": 173,
+    "name": "Prva Liga",
+    "country": "SVN",
+    "country_name": "Slovenia",
+    "type": "league",
+    "player_count": 1
+  },
+  {
+    "id": 174,
+    "name": "Slovenia Cup",
+    "country": "SVN",
+    "country_name": "Slovenia",
+    "type": "cup",
+    "player_count": 1
+  },
+  {
+    "id": 8984,
+    "name": "Thai League",
+    "country": "THA",
+    "country_name": "Thailand",
+    "type": "league",
+    "player_count": 1
+  },
+  {
+    "id": 8983,
+    "name": "Super League",
+    "country": "IDN",
+    "country_name": "Indonesia",
+    "type": "league",
+    "player_count": 1
+  },
+  {
+    "id": 51,
+    "name": "Veikkausliiga",
+    "country": "FIN",
+    "country_name": "Finland",
+    "type": "league",
+    "player_count": 1
+  },
+  {
+    "id": 143,
+    "name": "Suomen Cup",
+    "country": "FIN",
+    "country_name": "Finland",
+    "type": "cup",
+    "player_count": 1
+  },
+  {
+    "id": 176,
+    "name": "1. liga",
+    "country": "SVK",
+    "country_name": "Slovakia",
+    "type": "league",
+    "player_count": 1
+  },
+  {
+    "id": 177,
+    "name": "FA Cup",
+    "country": "SVK",
+    "country_name": "Slovakia",
+    "type": "cup",
+    "player_count": 1
+  },
+  {
+    "id": 522,
+    "name": "Premier League",
+    "country": "GHA",
+    "country_name": "Ghana",
+    "type": "league",
+    "player_count": 1
+  },
+  {
+    "id": 118,
+    "name": "Premier League",
+    "country": "ARM",
+    "country_name": "Armenia",
+    "type": "league",
+    "player_count": 1
+  }
+]

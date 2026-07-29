@@ -1,0 +1,16 @@
+# --- Previous-season data folders (excluded per project decision) ---
+raw_json (PREVIOUS SEASONS)/
+parsed JSON data (previous seasons)/
+
+# --- Any loose match-detail file named by FotMob's numeric match id ---
+# e.g. 4949272.json — this also covers numeric files inside raw_json/
+[0-9]*.json
+
+# --- OS / editor cruft ---
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
