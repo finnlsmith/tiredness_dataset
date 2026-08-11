@@ -1,0 +1,530 @@
+{
+  "47": {
+    "name": "Premier League",
+    "country": "ENG",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "high",
+    "note": "Assumed standard Aug-May European/African/Middle-Eastern cross-year calendar (default for leagues not explicitly researched this pass)."
+  },
+  "48": {
+    "name": "Championship",
+    "country": "ENG",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "high",
+    "note": "Assumed standard Aug-May European/African/Middle-Eastern cross-year calendar (default for leagues not explicitly researched this pass)."
+  },
+  "54": {
+    "name": "Bundesliga",
+    "country": "GER",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "high",
+    "note": "Assumed standard Aug-May European/African/Middle-Eastern cross-year calendar (default for leagues not explicitly researched this pass)."
+  },
+  "53": {
+    "name": "Ligue 1",
+    "country": "FRA",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "high",
+    "note": "Assumed standard Aug-May European/African/Middle-Eastern cross-year calendar (default for leagues not explicitly researched this pass)."
+  },
+  "87": {
+    "name": "LaLiga",
+    "country": "ESP",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "high",
+    "note": "Assumed standard Aug-May European/African/Middle-Eastern cross-year calendar (default for leagues not explicitly researched this pass)."
+  },
+  "55": {
+    "name": "Serie A",
+    "country": "ITA",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "high",
+    "note": "Assumed standard Aug-May European/African/Middle-Eastern cross-year calendar (default for leagues not explicitly researched this pass)."
+  },
+  "130": {
+    "name": "MLS",
+    "country": "USA",
+    "season_type": "calendar_year",
+    "target_start_season": "2022",
+    "confidence": "high",
+    "note": "MLS - Feb/Mar-Oct/Nov calendar-year for the 2022-2025 window (a shift toward Aug-May starts later, doesn't affect this project's window)."
+  },
+  "536": {
+    "name": "Saudi Pro League",
+    "country": "KSA",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "high",
+    "note": "Assumed standard Aug-May European/African/Middle-Eastern cross-year calendar (default for leagues not explicitly researched this pass)."
+  },
+  "230": {
+    "name": "Liga MX",
+    "country": "MEX",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "high",
+    "note": "Confirmed via Wikipedia: Liga MX seasons are labeled cross-year (e.g. 2022-23) even though internally split into Apertura/Clausura tournaments. FotMob almost certainly follows the same convention - a single fetch_fixtures(\"Liga MX\", \"2022/2023\") call should return both tournaments matches together, no special handling needed."
+  },
+  "71": {
+    "name": "S\u00fcper Lig",
+    "country": "TUR",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "high",
+    "note": "Assumed standard Aug-May European/African/Middle-Eastern cross-year calendar (default for leagues not explicitly researched this pass)."
+  },
+  "57": {
+    "name": "Eredivisie",
+    "country": "NED",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "high",
+    "note": "Assumed standard Aug-May European/African/Middle-Eastern cross-year calendar (default for leagues not explicitly researched this pass)."
+  },
+  "535": {
+    "name": "Qatar Stars League",
+    "country": "QAT",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "high",
+    "note": "Assumed standard Aug-May European/African/Middle-Eastern cross-year calendar (default for leagues not explicitly researched this pass)."
+  },
+  "61": {
+    "name": "Liga Portugal",
+    "country": "POR",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "high",
+    "note": "Assumed standard Aug-May European/African/Middle-Eastern cross-year calendar (default for leagues not explicitly researched this pass)."
+  },
+  "268": {
+    "name": "Serie A",
+    "country": "BRA",
+    "season_type": "calendar_year",
+    "target_start_season": "2022",
+    "confidence": "high",
+    "note": "Brazil Serie A - Apr-Dec calendar-year, confirmed."
+  },
+  "40": {
+    "name": "First Division A",
+    "country": "BEL",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "high",
+    "note": "Assumed standard Aug-May European/African/Middle-Eastern cross-year calendar (default for leagues not explicitly researched this pass)."
+  },
+  "523": {
+    "name": "Persian Gulf",
+    "country": "IRN",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "low",
+    "note": "Assumed Aug-May cross-year by default; this country's calendar wasn't independently verified this pass, please spot-check."
+  },
+  "519": {
+    "name": "Premier League",
+    "country": "EGY",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "low",
+    "note": "Assumed Aug-May cross-year by default; this country's calendar wasn't independently verified this pass, please spot-check."
+  },
+  "122": {
+    "name": "1. Liga",
+    "country": "CZE",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "high",
+    "note": "Assumed standard Aug-May European/African/Middle-Eastern cross-year calendar (default for leagues not explicitly researched this pass)."
+  },
+  "64": {
+    "name": "Premiership",
+    "country": "SCO",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "high",
+    "note": "Assumed standard Aug-May European/African/Middle-Eastern cross-year calendar (default for leagues not explicitly researched this pass)."
+  },
+  "112": {
+    "name": "Liga Profesional",
+    "country": "ARG",
+    "season_type": "calendar_year",
+    "target_start_season": "2022",
+    "confidence": "high",
+    "note": "Argentina Liga Profesional - now single calendar-year format, confirmed."
+  },
+  "9039": {
+    "name": "LPF",
+    "country": "PAN",
+    "season_type": "calendar_year",
+    "target_start_season": "2022",
+    "confidence": "low",
+    "note": "Panama LPF - Apertura/Clausura, Central America pattern, not independently confirmed this pass. UPDATE: Liga MX turned out to use cross-year season labels despite being Apertura/Clausura, so this country could follow either pattern - genuinely unclear without checking FotMob directly."
+  },
+  "540": {
+    "name": "Superliga",
+    "country": "UZB",
+    "season_type": "calendar_year",
+    "target_start_season": "2022",
+    "confidence": "medium",
+    "note": "Uzbekistan Superliga - typically Mar-Nov calendar-year, not independently confirmed this pass."
+  },
+  "46": {
+    "name": "Superligaen",
+    "country": "DEN",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "high",
+    "note": "Assumed standard Aug-May European/African/Middle-Eastern cross-year calendar (default for leagues not explicitly researched this pass)."
+  },
+  "537": {
+    "name": "Premier Soccer League",
+    "country": "RSA",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "low",
+    "note": "Assumed Aug-May cross-year by default; this country's calendar wasn't independently verified this pass, please spot-check."
+  },
+  "524": {
+    "name": "Stars League",
+    "country": "IRQ",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "low",
+    "note": "Assumed Aug-May cross-year by default; this country's calendar wasn't independently verified this pass, please spot-check."
+  },
+  "538": {
+    "name": "Pro League",
+    "country": "UAE",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "high",
+    "note": "Assumed standard Aug-May European/African/Middle-Eastern cross-year calendar (default for leagues not explicitly researched this pass)."
+  },
+  "63": {
+    "name": "Premier League",
+    "country": "RUS",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "high",
+    "note": "Assumed standard Aug-May European/African/Middle-Eastern cross-year calendar (default for leagues not explicitly researched this pass)."
+  },
+  "69": {
+    "name": "Super League",
+    "country": "SUI",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "high",
+    "note": "Assumed standard Aug-May European/African/Middle-Eastern cross-year calendar (default for leagues not explicitly researched this pass)."
+  },
+  "135": {
+    "name": "Super League 1",
+    "country": "GRE",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "high",
+    "note": "Assumed standard Aug-May European/African/Middle-Eastern cross-year calendar (default for leagues not explicitly researched this pass)."
+  },
+  "8870": {
+    "name": "Championship",
+    "country": "NZL",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "medium",
+    "note": "NZ Championship - Oct-Apr, structurally cross-year like Australia, not independently confirmed this pass."
+  },
+  "59": {
+    "name": "Eliteserien",
+    "country": "NOR",
+    "season_type": "calendar_year",
+    "target_start_season": "2022",
+    "confidence": "high",
+    "note": "Eliteserien (NOR) runs Mar-Nov, confirmed."
+  },
+  "136": {
+    "name": "1. Division",
+    "country": "CYP",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "high",
+    "note": "Assumed standard Aug-May European/African/Middle-Eastern cross-year calendar (default for leagues not explicitly researched this pass)."
+  },
+  "252": {
+    "name": "HNL",
+    "country": "CRO",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "high",
+    "note": "Assumed standard Aug-May European/African/Middle-Eastern cross-year calendar (default for leagues not explicitly researched this pass)."
+  },
+  "223": {
+    "name": "J. League",
+    "country": "JPN",
+    "season_type": "calendar_year",
+    "target_start_season": "2022",
+    "confidence": "medium",
+    "note": "J.League (JPN) - historically Feb-Dec calendar-year. NOTE: Japan announced a move to an autumn-spring calendar starting around 2026/27 - outside this project's window but worth knowing if scraping continues past 2025."
+  },
+  "38": {
+    "name": "Bundesliga",
+    "country": "AUT",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "high",
+    "note": "Assumed standard Aug-May European/African/Middle-Eastern cross-year calendar (default for leagues not explicitly researched this pass)."
+  },
+  "113": {
+    "name": "A-League",
+    "country": "AUS",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "high",
+    "note": "A-League (AUS) - Oct-May, seasons named e.g. '2022/2023', structurally cross-year."
+  },
+  "196": {
+    "name": "Ekstraklasa",
+    "country": "POL",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "high",
+    "note": "Assumed standard Aug-May European/African/Middle-Eastern cross-year calendar (default for leagues not explicitly researched this pass)."
+  },
+  "246": {
+    "name": "Serie A",
+    "country": "ECU",
+    "season_type": "calendar_year",
+    "target_start_season": "2022",
+    "confidence": "medium",
+    "note": "Ecuador Serie A - South American calendar-year pattern, not independently confirmed this pass."
+  },
+  "199": {
+    "name": "Division Profesional",
+    "country": "PAR",
+    "season_type": "calendar_year",
+    "target_start_season": "2022",
+    "confidence": "medium",
+    "note": "Paraguay Division Profesional - South American calendar-year pattern, not independently confirmed this pass."
+  },
+  "127": {
+    "name": "Ligat ha'Al",
+    "country": "ISR",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "low",
+    "note": "Assumed Aug-May cross-year by default; this country's calendar wasn't independently verified this pass, please spot-check."
+  },
+  "9080": {
+    "name": "K League 1",
+    "country": "KOR",
+    "season_type": "calendar_year",
+    "target_start_season": "2022",
+    "confidence": "medium",
+    "note": "K League 1 (KOR) - Feb-Dec calendar-year pattern, not independently confirmed this pass."
+  },
+  "116": {
+    "name": "Cymru Premier",
+    "country": "WAL",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "high",
+    "note": "Assumed standard Aug-May European/African/Middle-Eastern cross-year calendar (default for leagues not explicitly researched this pass)."
+  },
+  "67": {
+    "name": "Allsvenskan",
+    "country": "SWE",
+    "season_type": "calendar_year",
+    "target_start_season": "2022",
+    "confidence": "high",
+    "note": "Allsvenskan (SWE) runs Mar-Nov, confirmed."
+  },
+  "273": {
+    "name": "Liga de Primera",
+    "country": "CHI",
+    "season_type": "calendar_year",
+    "target_start_season": "2022",
+    "confidence": "medium",
+    "note": "Chile Liga de Primera - South American calendar-year pattern, not independently confirmed this pass."
+  },
+  "544": {
+    "name": "Ligue I",
+    "country": "TUN",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "high",
+    "note": "Assumed standard Aug-May European/African/Middle-Eastern cross-year calendar (default for leagues not explicitly researched this pass)."
+  },
+  "530": {
+    "name": "Botola Pro",
+    "country": "MAR",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "high",
+    "note": "Assumed standard Aug-May European/African/Middle-Eastern cross-year calendar (default for leagues not explicitly researched this pass)."
+  },
+  "8985": {
+    "name": "Liga Super",
+    "country": "MAS",
+    "season_type": "calendar_year",
+    "target_start_season": "2022",
+    "confidence": "low",
+    "note": "Malaysia Super League - believed Feb-Oct calendar-year. LOW CONFIDENCE, please verify."
+  },
+  "212": {
+    "name": "Nemzeti Bajnoks\u00e1g I",
+    "country": "HUN",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "high",
+    "note": "Assumed standard Aug-May European/African/Middle-Eastern cross-year calendar (default for leagues not explicitly researched this pass)."
+  },
+  "339": {
+    "name": "Primera Division",
+    "country": "VEN",
+    "season_type": "calendar_year",
+    "target_start_season": "2022",
+    "confidence": "medium",
+    "note": "Venezuela Primera Division - South American calendar-year pattern, not independently confirmed this pass."
+  },
+  "182": {
+    "name": "Super Liga",
+    "country": "SRB",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "high",
+    "note": "Assumed standard Aug-May European/African/Middle-Eastern cross-year calendar (default for leagues not explicitly researched this pass)."
+  },
+  "189": {
+    "name": "Liga I",
+    "country": "ROU",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "high",
+    "note": "Assumed standard Aug-May European/African/Middle-Eastern cross-year calendar (default for leagues not explicitly researched this pass)."
+  },
+  "274": {
+    "name": "Primera A",
+    "country": "COL",
+    "season_type": "calendar_year",
+    "target_start_season": "2022",
+    "confidence": "medium",
+    "note": "Colombia Primera A - Apertura/Finalizacion split, calendar-year, not independently confirmed this pass."
+  },
+  "270": {
+    "name": "First Professional League",
+    "country": "BUL",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "high",
+    "note": "Assumed standard Aug-May European/African/Middle-Eastern cross-year calendar (default for leagues not explicitly researched this pass)."
+  },
+  "126": {
+    "name": "Premier Division",
+    "country": "IRL",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "high",
+    "note": "Assumed standard Aug-May European/African/Middle-Eastern cross-year calendar (default for leagues not explicitly researched this pass)."
+  },
+  "337": {
+    "name": "Liga Nacional",
+    "country": "HON",
+    "season_type": "calendar_year",
+    "target_start_season": "2022",
+    "confidence": "low",
+    "note": "Honduras Liga Nacional - Apertura/Clausura, Central America pattern, not independently confirmed this pass. UPDATE: Liga MX turned out to use cross-year season labels despite being Apertura/Clausura, so this country could follow either pattern - genuinely unclear without checking FotMob directly."
+  },
+  "121": {
+    "name": "Primera Division",
+    "country": "CRC",
+    "season_type": "calendar_year",
+    "target_start_season": "2022",
+    "confidence": "low",
+    "note": "Costa Rica Primera Division - Apertura/Clausura, Central America pattern, not independently confirmed this pass. UPDATE: Liga MX turned out to use cross-year season labels despite being Apertura/Clausura, so this country could follow either pattern - genuinely unclear without checking FotMob directly."
+  },
+  "516": {
+    "name": "Ligue 1",
+    "country": "ALG",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "high",
+    "note": "Assumed standard Aug-May European/African/Middle-Eastern cross-year calendar (default for leagues not explicitly researched this pass)."
+  },
+  "120": {
+    "name": "Super League",
+    "country": "CHN",
+    "season_type": "calendar_year",
+    "target_start_season": "2022",
+    "confidence": "medium",
+    "note": "China Super League - Mar-Nov calendar-year pattern, not independently confirmed this pass."
+  },
+  "225": {
+    "name": "Premier League",
+    "country": "KAZ",
+    "season_type": "calendar_year",
+    "target_start_season": "2022",
+    "confidence": "medium",
+    "note": "Kazakhstan Premier League - typically Mar-Nov calendar-year, not independently confirmed this pass."
+  },
+  "173": {
+    "name": "Prva Liga",
+    "country": "SVN",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "high",
+    "note": "Assumed standard Aug-May European/African/Middle-Eastern cross-year calendar (default for leagues not explicitly researched this pass)."
+  },
+  "8984": {
+    "name": "Thai League",
+    "country": "THA",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "low",
+    "note": "Thai League - unlike most of Asia, reportedly follows an Aug-May cross-year format. LOW CONFIDENCE, please verify."
+  },
+  "8983": {
+    "name": "Super League",
+    "country": "IDN",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "low",
+    "note": "Indonesia Super League - seasons often span two years (e.g. Jul-Mar). Bucketed as cross_year but treat as low confidence, verify."
+  },
+  "51": {
+    "name": "Veikkausliiga",
+    "country": "FIN",
+    "season_type": "calendar_year",
+    "target_start_season": "2022",
+    "confidence": "high",
+    "note": "Veikkausliiga (FIN) runs Apr-Oct, confirmed."
+  },
+  "176": {
+    "name": "1. liga",
+    "country": "SVK",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "high",
+    "note": "Assumed standard Aug-May European/African/Middle-Eastern cross-year calendar (default for leagues not explicitly researched this pass)."
+  },
+  "522": {
+    "name": "Premier League",
+    "country": "GHA",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "low",
+    "note": "Assumed Aug-May cross-year by default; this country's calendar wasn't independently verified this pass, please spot-check."
+  },
+  "118": {
+    "name": "Premier League",
+    "country": "ARM",
+    "season_type": "cross_year",
+    "target_start_season": "2022/2023",
+    "confidence": "low",
+    "note": "Assumed Aug-May cross-year by default; this country's calendar wasn't independently verified this pass, please spot-check."
+  }
+}

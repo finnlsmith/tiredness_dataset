@@ -1,0 +1,7 @@
+{
+  "pairs": [
+    {"league": "Premier League", "seasons": ["2022/2023", "2023/2024", "2024/2025"]},
+    {"league": "LaLiga",         "seasons": ["2022/2023", "2023/2024", "2024/2025"]},
+    {"league": "Brazil Serie A", "seasons": ["2022", "2023", "2024", "2025"]}
+  ]
+}

@@ -1,0 +1,1336 @@
+{
+  "meta": {
+    "generated": "2026-08-09",
+    "sources": [
+      "master_leagues.json (user-verified)",
+      "worldfootballR_data all_leagues.csv (cross-reference for gaps)"
+    ],
+    "priority_legend": {
+      "core": "already scraping / top priority",
+      "secondary": "strong next candidates",
+      "long_tail": "exists on FotMob, catalogued but not prioritized"
+    },
+    "known_gaps": [
+      "Men's international friendlies do not appear to have a fixed FotMob league ID in this source data - needs manual verification on fotmob.com during a live international break.",
+      "This snapshot may not include competitions added to FotMob very recently; treat as a strong starting point, not a guaranteed-current list."
+    ]
+  },
+  "club": {
+    "leagues": [
+      {
+        "id": 47,
+        "name": "Premier League",
+        "country": "ENG",
+        "priority": "core",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 87,
+        "name": "LaLiga",
+        "country": "ESP",
+        "priority": "core",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 53,
+        "name": "Ligue 1",
+        "country": "FRA",
+        "priority": "core",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 54,
+        "name": "Bundesliga",
+        "country": "GER",
+        "priority": "core",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 55,
+        "name": "Serie A",
+        "country": "ITA",
+        "priority": "core",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 516,
+        "name": "Ligue 1",
+        "country": "ALG",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 112,
+        "name": "Liga Profesional",
+        "country": "ARG",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 118,
+        "name": "Premier League",
+        "country": "ARM",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 113,
+        "name": "A-League",
+        "country": "AUS",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 38,
+        "name": "Bundesliga",
+        "country": "AUT",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 40,
+        "name": "First Division A",
+        "country": "BEL",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 268,
+        "name": "Serie A",
+        "country": "BRA",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 270,
+        "name": "First Professional League",
+        "country": "BUL",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 273,
+        "name": "Liga de Primera",
+        "country": "CHI",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 120,
+        "name": "Super League",
+        "country": "CHN",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 274,
+        "name": "Primera A",
+        "country": "COL",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 121,
+        "name": "Primera Division",
+        "country": "CRC",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 252,
+        "name": "HNL",
+        "country": "CRO",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 136,
+        "name": "1. Division",
+        "country": "CYP",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 122,
+        "name": "1. Liga",
+        "country": "CZE",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 46,
+        "name": "Superligaen",
+        "country": "DEN",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 246,
+        "name": "Serie A",
+        "country": "ECU",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 519,
+        "name": "Premier League",
+        "country": "EGY",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 48,
+        "name": "Championship",
+        "country": "ENG",
+        "priority": "secondary",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 51,
+        "name": "Veikkausliiga",
+        "country": "FIN",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 522,
+        "name": "Premier League",
+        "country": "GHA",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 135,
+        "name": "Super League 1",
+        "country": "GRE",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 337,
+        "name": "Liga Nacional",
+        "country": "HON",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 212,
+        "name": "Nemzeti Bajnoks\u00e1g I",
+        "country": "HUN",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 8983,
+        "name": "Super League",
+        "country": "IDN",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 126,
+        "name": "Premier Division",
+        "country": "IRL",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 523,
+        "name": "Persian Gulf",
+        "country": "IRN",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 524,
+        "name": "Stars League",
+        "country": "IRQ",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 127,
+        "name": "Ligat ha'Al",
+        "country": "ISR",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 223,
+        "name": "J. League",
+        "country": "JPN",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 225,
+        "name": "Premier League",
+        "country": "KAZ",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 9080,
+        "name": "K League 1",
+        "country": "KOR",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 536,
+        "name": "Saudi Pro League",
+        "country": "KSA",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 530,
+        "name": "Botola Pro",
+        "country": "MAR",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 8985,
+        "name": "Liga Super",
+        "country": "MAS",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 230,
+        "name": "Liga MX",
+        "country": "MEX",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 57,
+        "name": "Eredivisie",
+        "country": "NED",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 59,
+        "name": "Eliteserien",
+        "country": "NOR",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 8870,
+        "name": "Championship",
+        "country": "NZL",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 9039,
+        "name": "LPF",
+        "country": "PAN",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 199,
+        "name": "Division Profesional",
+        "country": "PAR",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 196,
+        "name": "Ekstraklasa",
+        "country": "POL",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 61,
+        "name": "Liga Portugal",
+        "country": "POR",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 535,
+        "name": "Qatar Stars League",
+        "country": "QAT",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 189,
+        "name": "Liga I",
+        "country": "ROU",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 537,
+        "name": "Premier Soccer League",
+        "country": "RSA",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 63,
+        "name": "Premier League",
+        "country": "RUS",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 64,
+        "name": "Premiership",
+        "country": "SCO",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 182,
+        "name": "Super Liga",
+        "country": "SRB",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 69,
+        "name": "Super League",
+        "country": "SUI",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 176,
+        "name": "1. liga",
+        "country": "SVK",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 173,
+        "name": "Prva Liga",
+        "country": "SVN",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 67,
+        "name": "Allsvenskan",
+        "country": "SWE",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 8984,
+        "name": "Thai League",
+        "country": "THA",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 544,
+        "name": "Ligue I",
+        "country": "TUN",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 71,
+        "name": "S\u00fcper Lig",
+        "country": "TUR",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 538,
+        "name": "Pro League",
+        "country": "UAE",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 130,
+        "name": "MLS",
+        "country": "USA",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 540,
+        "name": "Superliga",
+        "country": "UZB",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 339,
+        "name": "Primera Division",
+        "country": "VEN",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 116,
+        "name": "Cymru Premier",
+        "country": "WAL",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      }
+    ],
+    "domestic_cups": [
+      {
+        "id": 9305,
+        "name": "Copa Argentina",
+        "country": "ARG",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 10007,
+        "name": "Copa de la Liga Profesional",
+        "country": "ARG",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 9471,
+        "name": "Australia Cup",
+        "country": "AUS",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 278,
+        "name": "Austrian Cup",
+        "country": "AUT",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 149,
+        "name": "Belgian Cup",
+        "country": "BEL",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 9067,
+        "name": "Copa do Brasil",
+        "country": "BRA",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 9837,
+        "name": "Canadian Championship",
+        "country": "CAN",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 9091,
+        "name": "Copa Chile",
+        "country": "CHI",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 9550,
+        "name": "Chinese FA Cup",
+        "country": "CHN",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 275,
+        "name": "Croatian Cup",
+        "country": "CRO",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 330,
+        "name": "Cyprus Cup",
+        "country": "CYP",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 254,
+        "name": "Czech Cup",
+        "country": "CZE",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 242,
+        "name": "DBU Pokalen",
+        "country": "DEN",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 9941,
+        "name": "Egypt Cup",
+        "country": "EGY",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 132,
+        "name": "FA Cup",
+        "country": "ENG",
+        "priority": "secondary",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 133,
+        "name": "EFL Cup",
+        "country": "ENG",
+        "priority": "secondary",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 138,
+        "name": "Copa del Rey",
+        "country": "ESP",
+        "priority": "secondary",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 143,
+        "name": "Suomen Cup",
+        "country": "FIN",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 134,
+        "name": "Coupe de France",
+        "country": "FRA",
+        "priority": "secondary",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 209,
+        "name": "DFB Pokal",
+        "country": "GER",
+        "priority": "secondary",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 145,
+        "name": "Greece Cup",
+        "country": "GRE",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 213,
+        "name": "Magyar Kupa",
+        "country": "HUN",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 219,
+        "name": "FAI Cup",
+        "country": "IRL",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 9487,
+        "name": "Hazfi Cup",
+        "country": "IRN",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 9097,
+        "name": "State Cup",
+        "country": "ISR",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 141,
+        "name": "Coppa Italia",
+        "country": "ITA",
+        "priority": "secondary",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 9011,
+        "name": "Emperor Cup",
+        "country": "JPN",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 224,
+        "name": "J. League Cup",
+        "country": "JPN",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 9551,
+        "name": "Cup",
+        "country": "KOR",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 9942,
+        "name": "King's Cup",
+        "country": "KSA",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 11840,
+        "name": "Cup",
+        "country": "MAR",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 235,
+        "name": "KNVB Cup",
+        "country": "NED",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 206,
+        "name": "Norgesmesterskapet",
+        "country": "NOR",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 198,
+        "name": "Puchar Polski",
+        "country": "POL",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 186,
+        "name": "Ta\u00e7a de Portugal",
+        "country": "POR",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 190,
+        "name": "Cupa Rom\u00e2niei",
+        "country": "ROU",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 9473,
+        "name": "Nedbank Cup",
+        "country": "RSA",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 193,
+        "name": "Russian Cup",
+        "country": "RUS",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 137,
+        "name": "Scottish Cup",
+        "country": "SCO",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 180,
+        "name": "League Cup",
+        "country": "SCO",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 183,
+        "name": "Kup Srbije",
+        "country": "SRB",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 164,
+        "name": "Swiss Cup",
+        "country": "SUI",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 177,
+        "name": "FA Cup",
+        "country": "SVK",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 174,
+        "name": "Slovenia Cup",
+        "country": "SVN",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 171,
+        "name": "Svenska Cupen",
+        "country": "SWE",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 151,
+        "name": "Turkish Cup",
+        "country": "TUR",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 9943,
+        "name": "UAE Cup",
+        "country": "UAE",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 9441,
+        "name": "Open Cup",
+        "country": "USA",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 9166,
+        "name": "Welsh Cup",
+        "country": "WAL",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      }
+    ],
+    "super_cups": [
+      {
+        "id": 247,
+        "name": "Community Shield",
+        "country": "England",
+        "ccode": "ENG",
+        "priority": "secondary",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 207,
+        "name": "Super Cup",
+        "country": "France",
+        "ccode": "FRA",
+        "priority": "secondary",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 8924,
+        "name": "Super Cup",
+        "country": "Germany",
+        "ccode": "GER",
+        "priority": "secondary",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 9467,
+        "name": "CAF Super Cup",
+        "country": "International",
+        "ccode": "INT",
+        "priority": "secondary",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 74,
+        "name": "UEFA Super Cup",
+        "country": "International",
+        "ccode": "INT",
+        "priority": "secondary",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 222,
+        "name": "Supercoppa",
+        "country": "Italy",
+        "ccode": "ITA",
+        "priority": "secondary",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 139,
+        "name": "Super Cup",
+        "country": "Spain",
+        "ccode": "ESP",
+        "priority": "secondary",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 10175,
+        "name": "Super Cup",
+        "country": "Albania",
+        "ccode": "ALB",
+        "priority": "long_tail",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 9381,
+        "name": "Super Cup",
+        "country": "Argentina",
+        "ccode": "ARG",
+        "priority": "long_tail",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 9658,
+        "name": "Super Cup",
+        "country": "Belarus",
+        "ccode": "BLR",
+        "priority": "long_tail",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 266,
+        "name": "Super Cup",
+        "country": "Belgium",
+        "ccode": "BEL",
+        "priority": "long_tail",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 10077,
+        "name": "Super Cup",
+        "country": "Brazil",
+        "ccode": "BRA",
+        "priority": "long_tail",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 272,
+        "name": "Super Cup",
+        "country": "Bulgaria",
+        "ccode": "BUL",
+        "priority": "long_tail",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 9407,
+        "name": "Super Cup",
+        "country": "Chile",
+        "ccode": "CHI",
+        "priority": "long_tail",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 9491,
+        "name": "Super Cup",
+        "country": "China",
+        "ccode": "CHN",
+        "priority": "long_tail",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 10223,
+        "name": "Super cup",
+        "country": "Costa Rica",
+        "ccode": "CRC",
+        "priority": "long_tail",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 276,
+        "name": "Super Cup",
+        "country": "Croatia",
+        "ccode": "CRO",
+        "priority": "long_tail",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 521,
+        "name": "Super Cup",
+        "country": "Cyprus",
+        "ccode": "CYP",
+        "priority": "long_tail",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 9069,
+        "name": "Super Cup",
+        "country": "Estonia",
+        "ccode": "EST",
+        "priority": "long_tail",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 10009,
+        "name": "Super Cup",
+        "country": "Iceland",
+        "ccode": "ISL",
+        "priority": "long_tail",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 9431,
+        "name": "Super Cup",
+        "country": "Ireland",
+        "ccode": "IRL",
+        "priority": "long_tail",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 9862,
+        "name": "Super Cup",
+        "country": "Israel",
+        "ccode": "ISR",
+        "priority": "long_tail",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 440,
+        "name": "Super Cup",
+        "country": "Japan",
+        "ccode": "JPN",
+        "priority": "long_tail",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 9504,
+        "name": "Super Cup",
+        "country": "Kazakhstan",
+        "ccode": "KAZ",
+        "priority": "long_tail",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 9493,
+        "name": "Super Cup",
+        "country": "Lithuania",
+        "ccode": "LTU",
+        "priority": "long_tail",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 9985,
+        "name": "Super Cup",
+        "country": "Moldova",
+        "ccode": "MDA",
+        "priority": "long_tail",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 237,
+        "name": "Super Cup",
+        "country": "Netherlands",
+        "ccode": "NED",
+        "priority": "long_tail",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 188,
+        "name": "Super Cup",
+        "country": "Portugal",
+        "ccode": "POR",
+        "priority": "long_tail",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 192,
+        "name": "Super Cup",
+        "country": "Romania",
+        "ccode": "ROU",
+        "priority": "long_tail",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 195,
+        "name": "Super Cup",
+        "country": "Russia",
+        "ccode": "RUS",
+        "priority": "long_tail",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 10074,
+        "name": "Super Cup",
+        "country": "Saudi Arabia",
+        "ccode": "KSA",
+        "priority": "long_tail",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 166,
+        "name": "Super Cup",
+        "country": "Turkey",
+        "ccode": "TUR",
+        "priority": "long_tail",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 443,
+        "name": "Super Cup",
+        "country": "Ukraine",
+        "ccode": "UKR",
+        "priority": "long_tail",
+        "source": "worldfootballR_data CSV"
+      }
+    ],
+    "continental_cups": [
+      {
+        "id": 42,
+        "name": "Champions League",
+        "country": "INT",
+        "priority": "secondary",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 10216,
+        "name": "Conference League",
+        "country": "INT",
+        "priority": "secondary",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 45,
+        "name": "Copa Libertadores",
+        "country": "INT",
+        "priority": "secondary",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 73,
+        "name": "Europa League",
+        "country": "INT",
+        "priority": "secondary",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 525,
+        "name": "AFC Champions League Elite",
+        "country": "INT",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 526,
+        "name": "CAF Champions League",
+        "country": "INT",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 297,
+        "name": "CONCACAF Champions Cup",
+        "country": "INT",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 299,
+        "name": "Copa Sudamericana",
+        "country": "INT",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      },
+      {
+        "id": 78,
+        "name": "FIFA Club World Cup",
+        "country": "INT",
+        "priority": "long_tail",
+        "source": "master_leagues.json"
+      }
+    ]
+  },
+  "international": {
+    "major_tournaments": [
+      {
+        "id": 77,
+        "name": "World Cup",
+        "priority": "core",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 50,
+        "name": "EURO",
+        "priority": "core",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 44,
+        "name": "Copa America",
+        "priority": "core",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 289,
+        "name": "Africa Cup of Nations",
+        "priority": "secondary",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 290,
+        "name": "Asian Cup",
+        "priority": "secondary",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 298,
+        "name": "CONCACAF Gold Cup",
+        "priority": "secondary",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 78,
+        "name": "FIFA Club World Cup",
+        "priority": "secondary",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 66,
+        "name": "Summer Olympics",
+        "priority": "long_tail",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 65,
+        "name": "Summer Olympics (Women)",
+        "priority": "long_tail",
+        "source": "worldfootballR_data CSV"
+      }
+    ],
+    "qualifiers": [
+      {
+        "id": 10195,
+        "name": "World Cup Qualification UEFA",
+        "priority": "secondary",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 10199,
+        "name": "World Cup Qualification CONMEBOL",
+        "priority": "secondary",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 10198,
+        "name": "World Cup Qualification CONCACAF",
+        "priority": "secondary",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 10197,
+        "name": "World Cup Qualification AFC",
+        "priority": "long_tail",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 10196,
+        "name": "World Cup Qualification CAF",
+        "priority": "long_tail",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 10200,
+        "name": "World Cup Qualification OFC",
+        "priority": "long_tail",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 10201,
+        "name": "World Cup Qualification Inter-confederation",
+        "priority": "long_tail",
+        "source": "worldfootballR_data CSV"
+      }
+    ],
+    "nations_leagues": [
+      {
+        "id": 9806,
+        "name": "UEFA Nations League A",
+        "priority": "secondary",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 9807,
+        "name": "UEFA Nations League B",
+        "priority": "long_tail",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 9808,
+        "name": "UEFA Nations League C",
+        "priority": "long_tail",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 9809,
+        "name": "UEFA Nations League D",
+        "priority": "long_tail",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 9821,
+        "name": "CONCACAF Nations League",
+        "priority": "long_tail",
+        "source": "worldfootballR_data CSV"
+      }
+    ],
+    "youth_and_other": [
+      {
+        "id": 287,
+        "name": "EURO U19",
+        "priority": "long_tail",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 288,
+        "name": "EURO U21",
+        "priority": "long_tail",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 301,
+        "name": "European Championship U-17",
+        "priority": "long_tail",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 296,
+        "name": "U-20 World Cup",
+        "priority": "long_tail",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 306,
+        "name": "World Cup U17",
+        "priority": "long_tail",
+        "source": "worldfootballR_data CSV"
+      },
+      {
+        "id": 74,
+        "name": "UEFA Super Cup",
+        "priority": "secondary",
+        "source": "worldfootballR_data CSV"
+      }
+    ],
+    "friendlies": {
+      "status": "unresolved",
+      "note": "See meta.known_gaps"
+    }
+  }
+}

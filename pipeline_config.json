@@ -1,0 +1,28 @@
+{
+  "pairs": [
+    {
+      "league": "Premier League (ENG)",
+      "seasons": [
+        "2022/2023"
+      ]
+    },
+    {
+      "league": "Bundesliga (GER)",
+      "seasons": [
+        "2022/2023"
+      ]
+    },
+    {
+      "league": "Ligue 1 (FRA)",
+      "seasons": [
+        "2022/2023"
+      ]
+    },
+    {
+      "league": "Serie A (ITA)",
+      "seasons": [
+        "2022/2023"
+      ]
+    }
+  ]
+}
