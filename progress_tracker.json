@@ -80,14 +80,14 @@
         "fixtures_fetched": true,
         "match_details": {
           "status": "complete",
-          "success": 355,
-          "failed": 25,
+          "success": 380,
+          "failed": 0,
           "skipped": 0
         },
         "parsed_to_stats": false,
-        "last_updated": "2026-08-09",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
+        "last_updated": "2026-08-10",
+        "updated_by": "manual-fix (verified against raw_json/)",
+        "notes": "Corrected after manual cleanup outside run_pipeline.py; verified file count in raw_json/."
       }
     }
   },
