@@ -228,5 +228,509 @@
         "notes": ""
       }
     }
+  },
+  "sco_64": {
+    "league_name": "Premiership",
+    "league_id": 64,
+    "country": "SCO",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 198,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 30
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 198,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 30
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 198,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 30
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 198,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 30
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "den_46": {
+    "league_name": "Superligaen",
+    "league_id": 46,
+    "country": "DEN",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 132,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 61
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 132,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 61
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 132,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 61
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 132,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 61
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "sui_69": {
+    "league_name": "Super League",
+    "league_id": 69,
+    "country": "SUI",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 180,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 198,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 30
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 198,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 30
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 199,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 30
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "gre_135": {
+    "league_name": "Super League 1",
+    "league_id": 135,
+    "country": "GRE",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-12",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-12",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 236,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-12",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 236,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-12",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "cro_252": {
+    "league_name": "HNL",
+    "league_id": 252,
+    "country": "CRO",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 134,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 46
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 180,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 180,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 180,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "pol_196": {
+    "league_name": "Ekstraklasa",
+    "league_id": 196,
+    "country": "POL",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 306,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 306,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023/2024": {
+        "fixtures_fetched": false,
+        "match_details": {
+          "status": "complete",
+          "success": 307,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-12",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": false,
+        "match_details": {
+          "status": "complete",
+          "success": 306,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-12",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "cze_122": {
+    "league_name": "1. Liga",
+    "league_id": 122,
+    "country": "CZE",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 36
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 37
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 36
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 36
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "rou_189": {
+    "league_name": "Liga I",
+    "league_id": 189,
+    "country": "ROU",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 318,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-12",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 317,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-12",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 315,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-12",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 317,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-12",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
   }
 }

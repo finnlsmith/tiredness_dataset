@@ -155,7 +155,7 @@ def run_pair(league_name: str, season: str, leagues: list, tracker: dict, force:
     })
 
     output_dir = f"raw_json/{league_key}_{slug}"
-    result = scrape_match_details(fixtures_file_name, output_dir, league_entry["name"])
+    result = scrape_match_details(fixtures_file_name, output_dir, league_entry["name"], league_entry["id"])
 
     update_tracker(tracker, league_entry, season, {
         "match_details": {

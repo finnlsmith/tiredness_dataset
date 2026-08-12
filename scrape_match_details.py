@@ -23,7 +23,7 @@ from playwright.sync_api import sync_playwright
 DELAY = 1.5
 
 
-def scrape_match_details(fixtures_filename: str, output_dir: str, league_name: str) -> dict:
+def scrape_match_details(fixtures_filename: str, output_dir: str, league_name: str, league_id: int = None) -> dict:
     """
     Scrape match details for every finished match in fixtures_tiredness/<fixtures_filename>,
     saving each to <output_dir>/<match_id>.json. Skips files that already exist.
@@ -123,6 +123,7 @@ def scrape_match_details(fixtures_filename: str, output_dir: str, league_name: s
 
             data          = r.json()
             league        = data.get("general", {}).get("leagueName")
+            parent_id     = data.get("general", {}).get("parentLeagueId")
             finished_flag = data.get("general", {}).get("finished")
 
             if not finished_flag:
@@ -133,8 +134,9 @@ def scrape_match_details(fixtures_filename: str, output_dir: str, league_name: s
             with open(out_path, "w") as f:
                 json.dump({"pageProps": data}, f)
 
-            if league != league_name:
-                print(f"[{i+1}/{total}] ⚑ Related competition saved (league='{league}'): {home} vs {away} ({match_id})")
+            is_match = (parent_id == league_id) if league_id is not None else (league == league_name)
+            if not is_match:
+                print(f"[{i+1}/{total}] ⚑ Related competition saved (league='{league}', parentLeagueId={parent_id}): {home} vs {away} ({match_id})")
                 related += 1
             else:
                 print(f"[{i+1}/{total}] ✓ {home} vs {away} ({match_id})")
