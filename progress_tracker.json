@@ -732,5 +732,418 @@
         "notes": ""
       }
     }
+  },
+  "usa_130": {
+    "league_name": "MLS",
+    "league_id": 130,
+    "country": "USA",
+    "seasons": {
+      "2022": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 476,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 13
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "manual-fix (recounted v2, self-calibrated leagueName baseline)",
+        "notes": "Recounted from raw_json files. Baseline leagueName='Major League Soccer'. Superseded the leagueId-based recount, which was wrong for this league (MLS splits regular season across 3 leagueIds under one consistent name)."
+      },
+      "2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 493,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 28
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "eng_48": {
+    "league_name": "Championship",
+    "league_id": 48,
+    "country": "ENG",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 553,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 5
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 552,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 5
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 552,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 5
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 555,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 3
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "ned_57": {
+    "league_name": "Eredivisie",
+    "league_id": 57,
+    "country": "NED",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 306,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 6
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 306,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 3
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 306,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 3
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 306,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 3
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "por_61": {
+    "league_name": "Liga Portugal",
+    "league_id": 61,
+    "country": "POR",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 306,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 306,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 306,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 306,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "bel_40": {
+    "league_name": "First Division A",
+    "league_id": 40,
+    "country": "BEL",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 306,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 24
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "manual-fix (recount v3, keyword-based classification)",
+        "notes": "Recounted: classification now based on sub-competition keywords (playoff/group/relegation/etc.) instead of self-calibrated baseline name, which was fragile to fixture ordering and league rebranding."
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 73
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "manual-fix (recount v3, keyword-based classification)",
+        "notes": "Recounted: classification now based on sub-competition keywords (playoff/group/relegation/etc.) instead of self-calibrated baseline name, which was fragile to fixture ordering and league rebranding."
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 73
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "manual-fix (recount v3, keyword-based classification)",
+        "notes": "Recounted: classification now based on sub-competition keywords (playoff/group/relegation/etc.) instead of self-calibrated baseline name, which was fragile to fixture ordering and league rebranding."
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 73
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "tur_71": {
+    "league_name": "S\u00fcper Lig",
+    "league_id": 71,
+    "country": "TUR",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 342,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 380,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 342,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 306,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "ksa_536": {
+    "league_name": "Saudi Pro League",
+    "league_id": 536,
+    "country": "KSA",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "manual-fix (recount v3, keyword-based classification)",
+        "notes": "Recounted: classification now based on sub-competition keywords (playoff/group/relegation/etc.) instead of self-calibrated baseline name, which was fragile to fixture ordering and league rebranding."
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 306,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "manual-fix (recount v3, keyword-based classification)",
+        "notes": "Recounted: classification now based on sub-competition keywords (playoff/group/relegation/etc.) instead of self-calibrated baseline name, which was fragile to fixture ordering and league rebranding."
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 306,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 306,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
   }
 }

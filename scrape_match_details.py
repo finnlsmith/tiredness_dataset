@@ -10,7 +10,45 @@ Example:
 Can also be imported and called directly:
     from scrape_match_details import scrape_match_details
     result = scrape_match_details("esp_87_2024_2025_fixtures.json", "raw_json/laliga_2024_2025", "LaLiga")
-    # result == {"success": n, "failed": n, "skipped": n}
+    # result == {"success": n, "failed": n, "skipped": n, "related_competition": n}
+
+NOTE on classification (history, most recent fix 2026-08-11):
+    v1: compared FotMob's returned `leagueName` against the short catalog
+        name passed in on the command line (e.g. "MLS"). Broke for any
+        league whose catalog short-name doesn't match FotMob's own display
+        string — e.g. MLS returns "Major League Soccer", so every match
+        failed the comparison and got wrongly bucketed as related.
+
+    v2: self-calibrated off the first successfully-fetched match's
+        leagueName instead of a fixed string. Fixed the v1 problem, but
+        turned out to be fragile in its own way: if fixture order isn't
+        guaranteed and an early match happens to carry an alternate/older
+        branding name (a mid-scrape rename, e.g. "Saudi Pro League" vs
+        "Saudi Professional League"), the baseline locks onto the MINORITY
+        name and flips the whole run's classification backwards. Confirmed
+        on Saudi Pro League 2023/24: 273 of 306 legitimate matches got
+        wrongly marked "related" because the baseline happened to calibrate
+        off a rebranded label seen early in the run.
+
+    v3 (current): don't try to match any single "correct" name at all.
+        Classify by whether leagueName contains language indicating a
+        genuinely different SUB-COMPETITION (playoff, group stage,
+        relegation/promotion round, qualifiers) - anything else counts as
+        the real season, regardless of which of a league's rebranded names
+        it happens to use. This correctly handles same-league renames
+        (Saudi, Belgium's Pro League/First Division A) AND genuine
+        sub-competitions (MLS Cup Playoffs, Eredivisie ECL Playoff, Belgian
+        Championship/Relegation/ECL playoff groups) without depending on
+        fixture order or any hardcoded per-league name mapping.
+
+        Caveat: this only distinguishes sub-competitions of the SAME
+        league from the main season - it does NOT verify the match is even
+        the right league at all (that would need a leagueId/parentLeagueId
+        check). If a genuinely wrong-league match ever showed up with a
+        bland name containing none of the keywords below, it would be
+        wrongly counted as success. Worth an occasional spot-check via
+        leagueId on high-related-count seasons rather than trusting this
+        blindly forever.
 """
 
 import json
@@ -22,13 +60,33 @@ from playwright.sync_api import sync_playwright
 
 DELAY = 1.5
 
+RELATED_KEYWORDS = ["playoff", "play-off", "relegation", "promotion", "qualif", "group"]
+
+
+def classify_league_name(league_name: str) -> str:
+    """
+    Returns "success" if this looks like the main league season, "related"
+    if the name indicates a sub-competition (playoff/group/etc), or
+    "unknown" if no name was returned at all.
+    """
+    if league_name is None:
+        return "unknown"
+    lname = league_name.lower()
+    if any(kw in lname for kw in RELATED_KEYWORDS):
+        return "related"
+    return "success"
+
 
 def scrape_match_details(fixtures_filename: str, output_dir: str, league_name: str, league_id: int = None) -> dict:
     """
     Scrape match details for every finished match in fixtures_tiredness/<fixtures_filename>,
     saving each to <output_dir>/<match_id>.json. Skips files that already exist.
 
-    Returns {"success": n, "failed": n, "skipped": n}.
+    Returns {"success": n, "failed": n, "skipped": n, "related_competition": n}.
+
+    `league_name` is used only for display/logging - classification is done
+    via classify_league_name() based on sub-competition keywords, not by
+    comparing against this string.
     """
     fixtures_file = Path("fixtures_tiredness") / fixtures_filename
     out_dir       = Path(output_dir)
@@ -44,7 +102,7 @@ def scrape_match_details(fixtures_filename: str, output_dir: str, league_name: s
 
     if not finished:
         print("No finished matches to scrape.")
-        return {"success": 0, "failed": 0, "skipped": 0}
+        return {"success": 0, "failed": 0, "skipped": 0, "related_competition": 0}
 
     sample_match    = finished[0]
     sample_page_url = f"https://www.fotmob.com{sample_match['pageUrl'].split('#')[0]}"
@@ -96,7 +154,7 @@ def scrape_match_details(fixtures_filename: str, output_dir: str, league_name: s
     success = 0
     failed  = 0
     skipped = 0
-    related = 0  # matches under a different competition name (playoffs, etc.) - still saved, tracked separately
+    related = 0  # matches under a sub-competition (playoffs, groups, etc.) - still saved, tracked separately
 
     print(f"\nScraping {total} matches into {out_dir} ...\n")
 
@@ -122,9 +180,10 @@ def scrape_match_details(fixtures_filename: str, output_dir: str, league_name: s
                 continue
 
             data          = r.json()
-            league        = data.get("general", {}).get("leagueName")
-            parent_id     = data.get("general", {}).get("parentLeagueId")
-            finished_flag = data.get("general", {}).get("finished")
+            general       = data.get("general", {})
+            league        = general.get("leagueName")
+            parent_id     = general.get("parentLeagueId")
+            finished_flag = general.get("finished")
 
             if not finished_flag:
                 print(f"[{i+1}/{total}] ✗ Not actually finished: {match_id} — {home} vs {away}")
@@ -134,10 +193,18 @@ def scrape_match_details(fixtures_filename: str, output_dir: str, league_name: s
             with open(out_path, "w") as f:
                 json.dump({"pageProps": data}, f)
 
-            is_match = (parent_id == league_id) if league_id is not None else (league == league_name)
-            if not is_match:
-                print(f"[{i+1}/{total}] ⚑ Related competition saved (league='{league}', parentLeagueId={parent_id}): {home} vs {away} ({match_id})")
+            wrong_league   = (league_id is not None and parent_id is not None and parent_id != league_id)
+            classification = classify_league_name(league)
+
+            if wrong_league:
+                print(f"[{i+1}/{total}] Wrong league saved (league='{league}', parentLeagueId={parent_id} != {league_id}): {home} vs {away} ({match_id})")
                 related += 1
+            elif classification == "related":
+                print(f"[{i+1}/{total}] ⚑ Related competition saved (league='{league}'): {home} vs {away} ({match_id})")
+                related += 1
+            elif classification == "unknown":
+                print(f"[{i+1}/{total}] ? No league name returned, saved anyway: {home} vs {away} ({match_id})")
+                related += 1  # conservative: don't silently call it success with no evidence
             else:
                 print(f"[{i+1}/{total}] ✓ {home} vs {away} ({match_id})")
                 success += 1
