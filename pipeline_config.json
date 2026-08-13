@@ -1,7 +1,7 @@
 {
   "pairs": [
     {
-      "league": "Premiership",
+      "league": "Nemzeti Bajnoks\u00e1g I",
       "seasons": [
         "2022/2023",
         "2023/2024",
@@ -10,7 +10,7 @@
       ]
     },
     {
-      "league": "Superligaen",
+      "league": "Super Liga",
       "seasons": [
         "2022/2023",
         "2023/2024",
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "league": "Super League (SUI)",
+      "league": "First Professional League",
       "seasons": [
         "2022/2023",
         "2023/2024",
@@ -28,7 +28,7 @@
       ]
     },
     {
-      "league": "Super League 1",
+      "league": "Prva Liga",
       "seasons": [
         "2022/2023",
         "2023/2024",
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "league": "HNL",
+      "league": "1. liga (SVK)",
       "seasons": [
         "2022/2023",
         "2023/2024",
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "league": "Ekstraklasa",
+      "league": "Ligat ha'Al",
       "seasons": [
         "2022/2023",
         "2023/2024",
@@ -55,7 +55,7 @@
       ]
     },
     {
-      "league": "1. Liga (CZE)",
+      "league": "1. Division",
       "seasons": [
         "2022/2023",
         "2023/2024",
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "league": "Liga I",
+      "league": "Cymru Premier",
       "seasons": [
         "2022/2023",
         "2023/2024",
