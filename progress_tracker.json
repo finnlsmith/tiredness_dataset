@@ -1740,5 +1740,509 @@
         "notes": "1 match unrecoverable via automated scraping: Flamengo vs Mirassol (fixture-list match_id=4732655). Same FotMob match_id reassignment issue as Serie A (BRA) 2022 (see that season's notes for full investigation detail) - reassigned to a future (2026-08-16) fixture. DEFERRED: needs manual lookup later if this match is needed. Coverage: 379/380 (99.7%)."
       }
     }
+  },
+  "qat_535": {
+    "league_name": "Qatar Stars League",
+    "league_id": 535,
+    "country": "QAT",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 132,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 132,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 132,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 132,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "uae_538": {
+    "league_name": "Pro League",
+    "league_id": 538,
+    "country": "UAE",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 182,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 182,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 182,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 182,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "irn_523": {
+    "league_name": "Persian Gulf",
+    "league_id": 523,
+    "country": "IRN",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 180,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "rsa_537": {
+    "league_name": "Premier Soccer League",
+    "league_id": 537,
+    "country": "RSA",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 6
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 210,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "irq_524": {
+    "league_name": "Stars League",
+    "league_id": 524,
+    "country": "IRQ",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 354,
+          "failed": 26,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 366,
+          "failed": 14,
+          "skipped": 0,
+          "related_competition": 3
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 380,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 380,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "mar_530": {
+    "league_name": "Botola Pro",
+    "league_id": 530,
+    "country": "MAR",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "tun_544": {
+    "league_name": "Ligue I",
+    "league_id": 544,
+    "country": "TUN",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 112,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 86
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 84,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 86
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "aus_113": {
+    "league_name": "A-League",
+    "league_id": 113,
+    "country": "AUS",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 156,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 7
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 162,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 7
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 169,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 7
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 156,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 7
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
   }
 }
