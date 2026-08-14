@@ -2849,15 +2849,15 @@
         "fixtures_fetched": true,
         "match_details": {
           "status": "excluded",
-          "success": 306,
+          "success": 0,
           "failed": 0,
           "skipped": 0,
           "related_competition": 0
         },
         "parsed_to_stats": false,
         "last_updated": "2026-08-13",
-        "updated_by": "manual-exclusion (lineup coverage audit, both laptops)",
-        "notes": "League excluded from dataset. VERIFIED via direct file inspection (sampled 20 matches per season across both laptops' scrapes, cross-checked): matches have coverageLevel='lower' and lineup=null across all/nearly all seasons. FotMob provides scores/goal events but no lineup, substitution, or player-minutes data for this league. Even matches that scrape 'successfully' by pipeline classification (correct league, finished=true) are useless for fatigue tracking - there's no player-level data to extract. This gap is invisible to success/failed counts, which is why it wasn't caught until a dedicated lineup-presence audit was run."
+        "updated_by": "run_pipeline.py (preflight check)",
+        "notes": "Excluded via preflight check (before full scrape): 0/3 sampled matches had real lineup data. coverageLevel breakdown: {'lower': 3}. Full scrape skipped to avoid wasting time on data that would just be excluded afterward - see the lineup-coverage audit notes on other excluded leagues for the full story on why this check exists."
       }
     }
   },
@@ -3173,6 +3173,195 @@
         "last_updated": "2026-08-12",
         "updated_by": "run_pipeline.py",
         "notes": ""
+      }
+    }
+  },
+  "kaz_225": {
+    "league_name": "Premier League",
+    "league_id": 225,
+    "country": "KAZ",
+    "seasons": {
+      "2022": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "excluded",
+          "success": 0,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py (preflight check)",
+        "notes": "Excluded via preflight check (before full scrape): 0/3 sampled matches had real lineup data. coverageLevel breakdown: {'lower': 3}. Full scrape skipped to avoid wasting time on data that would just be excluded afterward - see the lineup-coverage audit notes on other excluded leagues for the full story on why this check exists."
+      }
+    }
+  },
+  "mas_8985": {
+    "league_name": "Liga Super",
+    "league_id": 8985,
+    "country": "MAS",
+    "seasons": {
+      "2022": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "excluded",
+          "success": 0,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py (preflight check)",
+        "notes": "Excluded via preflight check (before full scrape): 0/3 sampled matches had real lineup data. coverageLevel breakdown: {'lower': 3}. Full scrape skipped to avoid wasting time on data that would just be excluded afterward - see the lineup-coverage audit notes on other excluded leagues for the full story on why this check exists."
+      }
+    }
+  },
+  "pan_9039": {
+    "league_name": "LPF",
+    "league_id": 9039,
+    "country": "PAN",
+    "seasons": {
+      "2022": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "excluded",
+          "success": 0,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py (preflight check)",
+        "notes": "Excluded via preflight check (before full scrape): 0/3 sampled matches had real lineup data. coverageLevel breakdown: {'lower': 3}. Full scrape skipped to avoid wasting time on data that would just be excluded afterward - see the lineup-coverage audit notes on other excluded leagues for the full story on why this check exists."
+      }
+    }
+  },
+  "par_199": {
+    "league_name": "Division Profesional",
+    "league_id": 199,
+    "country": "PAR",
+    "seasons": {
+      "2022": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "excluded",
+          "success": 0,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py (preflight check)",
+        "notes": "Excluded via preflight check (before full scrape): 0/3 sampled matches had real lineup data. coverageLevel breakdown: {'lower': 3}. Full scrape skipped to avoid wasting time on data that would just be excluded afterward - see the lineup-coverage audit notes on other excluded leagues for the full story on why this check exists."
+      }
+    }
+  },
+  "tha_8984": {
+    "league_name": "Thai League",
+    "league_id": 8984,
+    "country": "THA",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 241,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "uzb_540": {
+    "league_name": "Superliga",
+    "league_id": 540,
+    "country": "UZB",
+    "seasons": {
+      "2022": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "excluded",
+          "success": 0,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py (preflight check)",
+        "notes": "Excluded via preflight check (before full scrape): 0/3 sampled matches had real lineup data. coverageLevel breakdown: {'lower': 3}. Full scrape skipped to avoid wasting time on data that would just be excluded afterward - see the lineup-coverage audit notes on other excluded leagues for the full story on why this check exists."
+      }
+    }
+  },
+  "ven_339": {
+    "league_name": "Primera Division",
+    "league_id": 339,
+    "country": "VEN",
+    "seasons": {
+      "2022": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "excluded",
+          "success": 0,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py (preflight check)",
+        "notes": "Excluded via preflight check (before full scrape): 0/3 sampled matches had real lineup data. coverageLevel breakdown: {'lower': 3}. Full scrape skipped to avoid wasting time on data that would just be excluded afterward - see the lineup-coverage audit notes on other excluded leagues for the full story on why this check exists."
       }
     }
   }
