@@ -5079,5 +5079,1342 @@
         "notes": ""
       }
     }
+  },
+  "eng_133": {
+    "league_name": "EFL Cup",
+    "league_id": 133,
+    "country": "ENG",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 93,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 93,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 93,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 91,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "ger_209": {
+    "league_name": "DFB Pokal",
+    "league_id": 209,
+    "country": "GER",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 63,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 63,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 63,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 63,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "fra_134": {
+    "league_name": "Coupe de France",
+    "league_id": 134,
+    "country": "FRA",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 342,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": "Excluded via preflight check (before full scrape): 0/3 sampled matches had real lineup data. coverageLevel breakdown: {'lower': 3}. Full scrape skipped to avoid wasting time on data that would just be excluded afterward - see the lineup-coverage audit notes on other excluded leagues for the full story on why this check exists."
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 358,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": "Excluded via preflight check (before full scrape): 0/3 sampled matches had real lineup data. coverageLevel breakdown: {'lower': 3}. Full scrape skipped to avoid wasting time on data that would just be excluded afterward - see the lineup-coverage audit notes on other excluded leagues for the full story on why this check exists."
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 358,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": "Excluded via preflight check (before full scrape): 0/3 sampled matches had real lineup data. coverageLevel breakdown: {'lower': 3}. Full scrape skipped to avoid wasting time on data that would just be excluded afterward - see the lineup-coverage audit notes on other excluded leagues for the full story on why this check exists."
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 362,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": "Excluded via preflight check (before full scrape): 0/3 sampled matches had real lineup data. coverageLevel breakdown: {'lower': 3}. Full scrape skipped to avoid wasting time on data that would just be excluded afterward - see the lineup-coverage audit notes on other excluded leagues for the full story on why this check exists."
+      }
+    }
+  },
+  "esp_138": {
+    "league_name": "Copa del Rey",
+    "league_id": 138,
+    "country": "ESP",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 116,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 116,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 116,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 117,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "ita_141": {
+    "league_name": "Coppa Italia",
+    "league_id": 141,
+    "country": "ITA",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 45,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 45,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 45,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 45,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "ksa_9942": {
+    "league_name": "King's Cup",
+    "league_id": 9942,
+    "country": "KSA",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 15,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 31,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 31,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 31,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "tur_151": {
+    "league_name": "Turkish Cup",
+    "league_id": 151,
+    "country": "TUR",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 123,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 120,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 43,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 83
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "in_progress",
+          "success": null,
+          "failed": null,
+          "skipped": null,
+          "related_competition": null
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "ned_235": {
+    "league_name": "KNVB Cup",
+    "league_id": 235,
+    "country": "NED",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 58,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 58,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 56,
+          "failed": 1,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 56,
+          "failed": 1,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "por_186": {
+    "league_name": "Ta\u00e7a de Portugal",
+    "league_id": 186,
+    "country": "POR",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 111,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": "Excluded via preflight check (before full scrape): 0/3 sampled matches had real lineup data. coverageLevel breakdown: {'lower': 3}. Full scrape skipped to avoid wasting time on data that would just be excluded afterward - see the lineup-coverage audit notes on other excluded leagues for the full story on why this check exists."
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 111,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": "Excluded via preflight check (before full scrape): 0/3 sampled matches had real lineup data. coverageLevel breakdown: {'lower': 3}. Full scrape skipped to avoid wasting time on data that would just be excluded afterward - see the lineup-coverage audit notes on other excluded leagues for the full story on why this check exists."
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 111,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": "Excluded via preflight check (before full scrape): 0/3 sampled matches had real lineup data. coverageLevel breakdown: {'lower': 3}. Full scrape skipped to avoid wasting time on data that would just be excluded afterward - see the lineup-coverage audit notes on other excluded leagues for the full story on why this check exists."
+      }
+    }
+  },
+  "bel_149": {
+    "league_name": "Belgian Cup",
+    "league_id": 149,
+    "country": "BEL",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 33,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 33,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 33,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 33,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "egy_9941": {
+    "league_name": "Egypt Cup",
+    "league_id": 9941,
+    "country": "EGY",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 31,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": "Excluded via preflight check (before full scrape): 0/3 sampled matches had real lineup data. coverageLevel breakdown: {'lower': 3}. Full scrape skipped to avoid wasting time on data that would just be excluded afterward - see the lineup-coverage audit notes on other excluded leagues for the full story on why this check exists."
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "excluded",
+          "success": 0,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py (preflight check)",
+        "notes": "Excluded via preflight check (before full scrape): 0/4 sampled matches had real lineup data. coverageLevel breakdown: {'lower': 4}. Full scrape skipped to avoid wasting time on data that would just be excluded afterward - see the lineup-coverage audit notes on other excluded leagues for the full story on why this check exists."
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 31,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": "Excluded via preflight check (before full scrape): 0/3 sampled matches had real lineup data. coverageLevel breakdown: {'lower': 3}. Full scrape skipped to avoid wasting time on data that would just be excluded afterward - see the lineup-coverage audit notes on other excluded leagues for the full story on why this check exists."
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 31,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": "Excluded via preflight check (before full scrape): 0/3 sampled matches had real lineup data. coverageLevel breakdown: {'lower': 3}. Full scrape skipped to avoid wasting time on data that would just be excluded afterward - see the lineup-coverage audit notes on other excluded leagues for the full story on why this check exists."
+      }
+    }
+  },
+  "cze_254": {
+    "league_name": "Czech Cup",
+    "league_id": 254,
+    "country": "CZE",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 58,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": "Excluded via preflight check (before full scrape): 0/3 sampled matches had real lineup data. coverageLevel breakdown: {'lower': 3}. Full scrape skipped to avoid wasting time on data that would just be excluded afterward - see the lineup-coverage audit notes on other excluded leagues for the full story on why this check exists."
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 58,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": "Excluded via preflight check (before full scrape): 0/3 sampled matches had real lineup data. coverageLevel breakdown: {'lower': 3}. Full scrape skipped to avoid wasting time on data that would just be excluded afterward - see the lineup-coverage audit notes on other excluded leagues for the full story on why this check exists."
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 56,
+          "failed": 1,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "sco_137": {
+    "league_name": "Scottish Cup",
+    "league_id": 137,
+    "country": "SCO",
+    "seasons": {
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 101,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": "Excluded via preflight check (before full scrape): 0/3 sampled matches had real lineup data. coverageLevel breakdown: {'lower': 3}. Full scrape skipped to avoid wasting time on data that would just be excluded afterward - see the lineup-coverage audit notes on other excluded leagues for the full story on why this check exists."
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 100,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": "Excluded via preflight check (before full scrape): 0/3 sampled matches had real lineup data. coverageLevel breakdown: {'lower': 3}. Full scrape skipped to avoid wasting time on data that would just be excluded afterward - see the lineup-coverage audit notes on other excluded leagues for the full story on why this check exists."
+      }
+    }
+  },
+  "sco_180": {
+    "league_name": "League Cup",
+    "league_id": 180,
+    "country": "SCO",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 95,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": "Excluded via preflight check (before full scrape): 0/3 sampled matches had real lineup data. coverageLevel breakdown: {'lower': 3}. Full scrape skipped to avoid wasting time on data that would just be excluded afterward - see the lineup-coverage audit notes on other excluded leagues for the full story on why this check exists."
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 95,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": "Excluded via preflight check (before full scrape): 0/3 sampled matches had real lineup data. coverageLevel breakdown: {'lower': 3}. Full scrape skipped to avoid wasting time on data that would just be excluded afterward - see the lineup-coverage audit notes on other excluded leagues for the full story on why this check exists."
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 66,
+          "failed": 29,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "den_242": {
+    "league_name": "DBU Pokalen",
+    "league_id": 242,
+    "country": "DEN",
+    "seasons": {
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 109,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": "Excluded via preflight check (before full scrape): 0/3 sampled matches had real lineup data. coverageLevel breakdown: {'lower': 3}. Full scrape skipped to avoid wasting time on data that would just be excluded afterward - see the lineup-coverage audit notes on other excluded leagues for the full story on why this check exists."
+      }
+    }
+  },
+  "rsa_9473": {
+    "league_name": "Nedbank Cup",
+    "league_id": 9473,
+    "country": "RSA",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "excluded",
+          "success": 0,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py (preflight check)",
+        "notes": "Excluded via preflight check (before full scrape): 0/4 sampled matches had real lineup data. coverageLevel breakdown: {'lower': 4}. Full scrape skipped to avoid wasting time on data that would just be excluded afterward - see the lineup-coverage audit notes on other excluded leagues for the full story on why this check exists."
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "excluded",
+          "success": 0,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py (preflight check)",
+        "notes": "Excluded via preflight check (before full scrape): 0/4 sampled matches had real lineup data. coverageLevel breakdown: {'lower': 4}. Full scrape skipped to avoid wasting time on data that would just be excluded afterward - see the lineup-coverage audit notes on other excluded leagues for the full story on why this check exists."
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 31,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": "Excluded via preflight check (before full scrape): 0/3 sampled matches had real lineup data. coverageLevel breakdown: {'lower': 3}. Full scrape skipped to avoid wasting time on data that would just be excluded afterward - see the lineup-coverage audit notes on other excluded leagues for the full story on why this check exists."
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 32,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "uae_9943": {
+    "league_name": "UAE Cup",
+    "league_id": 9943,
+    "country": "UAE",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "excluded",
+          "success": 0,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py (preflight check)",
+        "notes": "Excluded via preflight check (before full scrape): 0/4 sampled matches had real lineup data. coverageLevel breakdown: {'lower': 4}. Full scrape skipped to avoid wasting time on data that would just be excluded afterward - see the lineup-coverage audit notes on other excluded leagues for the full story on why this check exists."
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "excluded",
+          "success": 0,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py (preflight check)",
+        "notes": "Excluded via preflight check (before full scrape): 0/4 sampled matches had real lineup data. coverageLevel breakdown: {'lower': 4}. Full scrape skipped to avoid wasting time on data that would just be excluded afterward - see the lineup-coverage audit notes on other excluded leagues for the full story on why this check exists."
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 15,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": "Excluded via preflight check (before full scrape): 0/3 sampled matches had real lineup data. coverageLevel breakdown: {'lower': 3}. Full scrape skipped to avoid wasting time on data that would just be excluded afterward - see the lineup-coverage audit notes on other excluded leagues for the full story on why this check exists."
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 15,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "rus_193": {
+    "league_name": "Russian Cup",
+    "league_id": 193,
+    "country": "RUS",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 89,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 88,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 88,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 88,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "sui_164": {
+    "league_name": "Swiss Cup",
+    "league_id": 164,
+    "country": "SUI",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 63,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": "Excluded via preflight check (before full scrape): 0/3 sampled matches had real lineup data. coverageLevel breakdown: {'lower': 3}. Full scrape skipped to avoid wasting time on data that would just be excluded afterward - see the lineup-coverage audit notes on other excluded leagues for the full story on why this check exists."
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 63,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 63,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 63,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "gre_145": {
+    "league_name": "Greece Cup",
+    "league_id": 145,
+    "country": "GRE",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 97,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": "Excluded via preflight check (before full scrape): 0/3 sampled matches had real lineup data. coverageLevel breakdown: {'lower': 3}. Full scrape skipped to avoid wasting time on data that would just be excluded afterward - see the lineup-coverage audit notes on other excluded leagues for the full story on why this check exists."
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 92,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": "Excluded via preflight check (before full scrape): 0/3 sampled matches had real lineup data. coverageLevel breakdown: {'lower': 3}. Full scrape skipped to avoid wasting time on data that would just be excluded afterward - see the lineup-coverage audit notes on other excluded leagues for the full story on why this check exists."
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 93,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": "Excluded via preflight check (before full scrape): 0/3 sampled matches had real lineup data. coverageLevel breakdown: {'lower': 3}. Full scrape skipped to avoid wasting time on data that would just be excluded afterward - see the lineup-coverage audit notes on other excluded leagues for the full story on why this check exists."
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 64,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "usa_9441": {
+    "league_name": "Open Cup",
+    "league_id": 9441,
+    "country": "USA",
+    "seasons": {
+      "2022": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 103,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 99,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 95,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 95,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "bra_9067": {
+    "league_name": "Copa do Brasil",
+    "league_id": 9067,
+    "country": "BRA",
+    "seasons": {
+      "2022": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 122,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": "Excluded via preflight check (before full scrape): 0/3 sampled matches had real lineup data. coverageLevel breakdown: {'lower': 3}. Full scrape skipped to avoid wasting time on data that would just be excluded afterward - see the lineup-coverage audit notes on other excluded leagues for the full story on why this check exists."
+      },
+      "2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 122,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": "Excluded via preflight check (before full scrape): 0/3 sampled matches had real lineup data. coverageLevel breakdown: {'lower': 3}. Full scrape skipped to avoid wasting time on data that would just be excluded afterward - see the lineup-coverage audit notes on other excluded leagues for the full story on why this check exists."
+      },
+      "2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 122,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": "Excluded via preflight check (before full scrape): 0/3 sampled matches had real lineup data. coverageLevel breakdown: {'lower': 3}. Full scrape skipped to avoid wasting time on data that would just be excluded afterward - see the lineup-coverage audit notes on other excluded leagues for the full story on why this check exists."
+      },
+      "2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 122,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "arg_10007": {
+    "league_name": "Copa de la Liga Profesional",
+    "league_id": 10007,
+    "country": "ARG",
+    "seasons": {
+      "2022": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 196,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 7
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 196,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 8
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 196,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 7
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "excluded",
+          "success": 0,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-14",
+        "updated_by": "run_pipeline.py (season mismatch check)",
+        "notes": "Excluded: requested season '2025' but FotMob's API returned data for '2024' instead (silent fallback to the currently-live season - this league likely needs a different season-string format, e.g. explicit Apertura/Clausura tournament names, that we haven't figured out yet). The returned data can look completely legitimate (real matches, real lineup data) since it's just from the wrong year, not corrupted - which is why this needs its own check separate from the lineup-coverage preflight."
+      }
+    }
   }
 }
