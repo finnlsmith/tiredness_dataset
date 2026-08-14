@@ -1590,11 +1590,11 @@
       "2025": {
         "fixtures_fetched": true,
         "match_details": {
-          "status": "in_progress",
-          "success": null,
-          "failed": null,
-          "skipped": null,
-          "related_competition": null
+          "status": "complete",
+          "success": 20,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
         },
         "parsed_to_stats": false,
         "last_updated": "2026-08-14",
