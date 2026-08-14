@@ -1,17 +1,17 @@
 {
-  "aus_113": {
-    "league_name": "A-League",
-    "league_id": 113,
-    "country": "AUS",
+  "aut_38": {
+    "league_name": "Bundesliga",
+    "league_id": 38,
+    "country": "AUT",
     "seasons": {
       "2022/2023": {
         "fixtures_fetched": true,
         "match_details": {
           "status": "complete",
-          "success": 156,
+          "success": 132,
           "failed": 0,
           "skipped": 0,
-          "related_competition": 7
+          "related_competition": 63
         },
         "parsed_to_stats": false,
         "last_updated": "2026-08-13",
@@ -22,182 +22,168 @@
         "fixtures_fetched": true,
         "match_details": {
           "status": "complete",
+          "success": 132,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 63
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 132,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 63
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 132,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 63
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "rus_63": {
+    "league_name": "Premier League",
+    "league_id": 63,
+    "country": "RUS",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "arm_118": {
+    "league_name": "Premier League",
+    "league_id": 118,
+    "country": "ARM",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "excluded",
           "success": 162,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 7
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-13",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      },
-      "2024/2025": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 169,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 7
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-13",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      },
-      "2025/2026": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 156,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 7
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-13",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      }
-    }
-  },
-  "rsa_537": {
-    "league_name": "Premier Soccer League",
-    "league_id": 537,
-    "country": "RSA",
-    "seasons": {
-      "2022/2023": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 240,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 6
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-13",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      },
-      "2023/2024": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 240,
-          "failed": 0,
+          "failed": 18,
           "skipped": 0,
           "related_competition": 0
         },
         "parsed_to_stats": false,
         "last_updated": "2026-08-13",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      },
-      "2024/2025": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 210,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 0
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-13",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      },
-      "2025/2026": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 240,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 0
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-13",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      }
-    }
-  },
-  "alg_516": {
-    "league_name": "Ligue 1",
-    "league_id": 516,
-    "country": "ALG",
-    "seasons": {
-      "2022/2023": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "excluded",
-          "success": 240,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 0
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-13",
-        "updated_by": "manual-exclusion (lineup coverage audit, both laptops)",
-        "notes": "League excluded from dataset. VERIFIED via direct file inspection (sampled 20 matches per season across both laptops' scrapes, cross-checked): matches have coverageLevel='lower' and lineup=null across all/nearly all seasons. FotMob provides scores/goal events but no lineup, substitution, or player-minutes data for this league. Even matches that scrape 'successfully' by pipeline classification (correct league, finished=true) are useless for fatigue tracking - there's no player-level data to extract. This gap is invisible to success/failed counts, which is why it wasn't caught until a dedicated lineup-presence audit was run."
+        "updated_by": "manual-exclusion (lineup coverage audit)",
+        "notes": "League excluded from dataset. VERIFIED via direct file inspection (sampled 20 matches per season): coverageLevel='lower' and lineup=null across all seasons scraped. FotMob provides scores/goal events but no lineup, substitution, or player-minutes data for this league. Same pattern as Iraq/Algeria/Ghana/Slovenia/Wales - confirmed via the cross-laptop lineup-coverage audit."
       },
       "2023/2024": {
         "fixtures_fetched": true,
         "match_details": {
           "status": "excluded",
-          "success": 240,
-          "failed": 0,
+          "success": 178,
+          "failed": 2,
           "skipped": 0,
           "related_competition": 0
         },
         "parsed_to_stats": false,
         "last_updated": "2026-08-13",
-        "updated_by": "manual-exclusion (lineup coverage audit, both laptops)",
-        "notes": "League excluded from dataset. VERIFIED via direct file inspection (sampled 20 matches per season across both laptops' scrapes, cross-checked): matches have coverageLevel='lower' and lineup=null across all/nearly all seasons. FotMob provides scores/goal events but no lineup, substitution, or player-minutes data for this league. Even matches that scrape 'successfully' by pipeline classification (correct league, finished=true) are useless for fatigue tracking - there's no player-level data to extract. This gap is invisible to success/failed counts, which is why it wasn't caught until a dedicated lineup-presence audit was run."
+        "updated_by": "manual-exclusion (lineup coverage audit)",
+        "notes": "League excluded from dataset. VERIFIED via direct file inspection (sampled 20 matches per season): coverageLevel='lower' and lineup=null across all seasons scraped. FotMob provides scores/goal events but no lineup, substitution, or player-minutes data for this league. Same pattern as Iraq/Algeria/Ghana/Slovenia/Wales - confirmed via the cross-laptop lineup-coverage audit."
       },
       "2024/2025": {
         "fixtures_fetched": true,
         "match_details": {
           "status": "excluded",
-          "success": 240,
-          "failed": 0,
+          "success": 108,
+          "failed": 57,
           "skipped": 0,
           "related_competition": 0
         },
         "parsed_to_stats": false,
         "last_updated": "2026-08-13",
-        "updated_by": "manual-exclusion (lineup coverage audit, both laptops)",
-        "notes": "League excluded from dataset. VERIFIED via direct file inspection (sampled 20 matches per season across both laptops' scrapes, cross-checked): matches have coverageLevel='lower' and lineup=null across all/nearly all seasons. FotMob provides scores/goal events but no lineup, substitution, or player-minutes data for this league. Even matches that scrape 'successfully' by pipeline classification (correct league, finished=true) are useless for fatigue tracking - there's no player-level data to extract. This gap is invisible to success/failed counts, which is why it wasn't caught until a dedicated lineup-presence audit was run."
-      },
-      "2025/2026": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "excluded",
-          "success": 240,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 0
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-13",
-        "updated_by": "manual-exclusion (lineup coverage audit, both laptops)",
-        "notes": "League excluded from dataset. VERIFIED via direct file inspection (sampled 20 matches per season across both laptops' scrapes, cross-checked): matches have coverageLevel='lower' and lineup=null across all/nearly all seasons. FotMob provides scores/goal events but no lineup, substitution, or player-minutes data for this league. Even matches that scrape 'successfully' by pipeline classification (correct league, finished=true) are useless for fatigue tracking - there's no player-level data to extract. This gap is invisible to success/failed counts, which is why it wasn't caught until a dedicated lineup-presence audit was run."
+        "updated_by": "manual-exclusion (lineup coverage audit)",
+        "notes": "League excluded from dataset. VERIFIED via direct file inspection (sampled 20 matches per season): coverageLevel='lower' and lineup=null across all seasons scraped. FotMob provides scores/goal events but no lineup, substitution, or player-minutes data for this league. Same pattern as Iraq/Algeria/Ghana/Slovenia/Wales - confirmed via the cross-laptop lineup-coverage audit."
       }
     }
   },
-  "egy_519": {
-    "league_name": "Premier League",
-    "league_id": 519,
-    "country": "EGY",
+  "mex_230": {
+    "league_name": "Liga MX",
+    "league_id": 230,
+    "country": "MEX",
     "seasons": {
       "2022/2023": {
         "fixtures_fetched": true,
         "match_details": {
           "status": "complete",
-          "success": 306,
+          "success": 27,
           "failed": 0,
           "skipped": 0,
           "related_competition": 0
@@ -211,7 +197,7 @@
         "fixtures_fetched": true,
         "match_details": {
           "status": "complete",
-          "success": 306,
+          "success": 27,
           "failed": 0,
           "skipped": 0,
           "related_competition": 0
@@ -225,10 +211,10 @@
         "fixtures_fetched": true,
         "match_details": {
           "status": "complete",
-          "success": 153,
+          "success": 27,
           "failed": 0,
           "skipped": 0,
-          "related_competition": 72
+          "related_competition": 0
         },
         "parsed_to_stats": false,
         "last_updated": "2026-08-13",
@@ -239,10 +225,10 @@
         "fixtures_fetched": true,
         "match_details": {
           "status": "complete",
-          "success": 210,
+          "success": 27,
           "failed": 0,
           "skipped": 0,
-          "related_competition": 112
+          "related_competition": 0
         },
         "parsed_to_stats": false,
         "last_updated": "2026-08-13",
@@ -251,129 +237,129 @@
       }
     }
   },
-  "gha_522": {
-    "league_name": "Premier League",
-    "league_id": 522,
-    "country": "GHA",
+  "irl_126": {
+    "league_name": "Premier Division",
+    "league_id": 126,
+    "country": "IRL",
     "seasons": {
       "2022/2023": {
         "fixtures_fetched": true,
         "match_details": {
-          "status": "excluded",
-          "success": 306,
+          "status": "complete",
+          "success": 134,
           "failed": 0,
           "skipped": 0,
           "related_competition": 0
         },
         "parsed_to_stats": false,
         "last_updated": "2026-08-13",
-        "updated_by": "manual-exclusion (lineup coverage audit, both laptops)",
-        "notes": "League excluded from dataset. VERIFIED via direct file inspection (sampled 20 matches per season across both laptops' scrapes, cross-checked): matches have coverageLevel='lower' and lineup=null across all/nearly all seasons. FotMob provides scores/goal events but no lineup, substitution, or player-minutes data for this league. Even matches that scrape 'successfully' by pipeline classification (correct league, finished=true) are useless for fatigue tracking - there's no player-level data to extract. This gap is invisible to success/failed counts, which is why it wasn't caught until a dedicated lineup-presence audit was run."
+        "updated_by": "run_pipeline.py",
+        "notes": ""
       },
       "2023/2024": {
         "fixtures_fetched": true,
         "match_details": {
-          "status": "excluded",
-          "success": 306,
+          "status": "complete",
+          "success": 134,
           "failed": 0,
           "skipped": 0,
           "related_competition": 0
         },
         "parsed_to_stats": false,
         "last_updated": "2026-08-13",
-        "updated_by": "manual-exclusion (lineup coverage audit, both laptops)",
-        "notes": "League excluded from dataset. VERIFIED via direct file inspection (sampled 20 matches per season across both laptops' scrapes, cross-checked): matches have coverageLevel='lower' and lineup=null across all/nearly all seasons. FotMob provides scores/goal events but no lineup, substitution, or player-minutes data for this league. Even matches that scrape 'successfully' by pipeline classification (correct league, finished=true) are useless for fatigue tracking - there's no player-level data to extract. This gap is invisible to success/failed counts, which is why it wasn't caught until a dedicated lineup-presence audit was run."
+        "updated_by": "run_pipeline.py",
+        "notes": ""
       },
       "2024/2025": {
         "fixtures_fetched": true,
         "match_details": {
-          "status": "excluded",
-          "success": 306,
+          "status": "complete",
+          "success": 134,
           "failed": 0,
           "skipped": 0,
           "related_competition": 0
         },
         "parsed_to_stats": false,
         "last_updated": "2026-08-13",
-        "updated_by": "manual-exclusion (lineup coverage audit, both laptops)",
-        "notes": "League excluded from dataset. VERIFIED via direct file inspection (sampled 20 matches per season across both laptops' scrapes, cross-checked): matches have coverageLevel='lower' and lineup=null across all/nearly all seasons. FotMob provides scores/goal events but no lineup, substitution, or player-minutes data for this league. Even matches that scrape 'successfully' by pipeline classification (correct league, finished=true) are useless for fatigue tracking - there's no player-level data to extract. This gap is invisible to success/failed counts, which is why it wasn't caught until a dedicated lineup-presence audit was run."
+        "updated_by": "run_pipeline.py",
+        "notes": ""
       },
       "2025/2026": {
         "fixtures_fetched": true,
         "match_details": {
-          "status": "excluded",
-          "success": 306,
+          "status": "complete",
+          "success": 134,
           "failed": 0,
           "skipped": 0,
           "related_competition": 0
         },
         "parsed_to_stats": false,
         "last_updated": "2026-08-13",
-        "updated_by": "manual-exclusion (lineup coverage audit, both laptops)",
-        "notes": "League excluded from dataset. VERIFIED via direct file inspection (sampled 20 matches per season across both laptops' scrapes, cross-checked): matches have coverageLevel='lower' and lineup=null across all/nearly all seasons. FotMob provides scores/goal events but no lineup, substitution, or player-minutes data for this league. Even matches that scrape 'successfully' by pipeline classification (correct league, finished=true) are useless for fatigue tracking - there's no player-level data to extract. This gap is invisible to success/failed counts, which is why it wasn't caught until a dedicated lineup-presence audit was run."
+        "updated_by": "run_pipeline.py",
+        "notes": ""
       }
     }
   },
-  "por_61": {
-    "league_name": "Liga Portugal",
-    "league_id": 61,
-    "country": "POR",
+  "nzl_8870": {
+    "league_name": "Championship",
+    "league_id": 8870,
+    "country": "NZL",
     "seasons": {
       "2022/2023": {
         "fixtures_fetched": true,
         "match_details": {
-          "status": "complete",
-          "success": 306,
+          "status": "excluded",
+          "success": 56,
           "failed": 0,
           "skipped": 0,
           "related_competition": 0
         },
         "parsed_to_stats": false,
-        "last_updated": "2026-08-11",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
+        "last_updated": "2026-08-13",
+        "updated_by": "manual-exclusion (lineup coverage audit)",
+        "notes": "League excluded from dataset. VERIFIED via direct file inspection (sampled 20 matches per season): coverageLevel='lower' and lineup=null across all seasons scraped. FotMob provides scores/goal events but no lineup, substitution, or player-minutes data for this league. Same pattern as Iraq/Algeria/Ghana/Slovenia/Wales - confirmed via the cross-laptop lineup-coverage audit."
       },
       "2023/2024": {
         "fixtures_fetched": true,
         "match_details": {
-          "status": "complete",
-          "success": 306,
+          "status": "excluded",
+          "success": 56,
           "failed": 0,
           "skipped": 0,
           "related_competition": 0
         },
         "parsed_to_stats": false,
-        "last_updated": "2026-08-11",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
+        "last_updated": "2026-08-13",
+        "updated_by": "manual-exclusion (lineup coverage audit)",
+        "notes": "League excluded from dataset. VERIFIED via direct file inspection (sampled 20 matches per season): coverageLevel='lower' and lineup=null across all seasons scraped. FotMob provides scores/goal events but no lineup, substitution, or player-minutes data for this league. Same pattern as Iraq/Algeria/Ghana/Slovenia/Wales - confirmed via the cross-laptop lineup-coverage audit."
       },
       "2024/2025": {
         "fixtures_fetched": true,
         "match_details": {
-          "status": "complete",
-          "success": 306,
+          "status": "excluded",
+          "success": 56,
           "failed": 0,
           "skipped": 0,
           "related_competition": 0
         },
         "parsed_to_stats": false,
-        "last_updated": "2026-08-11",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
+        "last_updated": "2026-08-13",
+        "updated_by": "manual-exclusion (lineup coverage audit)",
+        "notes": "League excluded from dataset. VERIFIED via direct file inspection (sampled 20 matches per season): coverageLevel='lower' and lineup=null across all seasons scraped. FotMob provides scores/goal events but no lineup, substitution, or player-minutes data for this league. Same pattern as Iraq/Algeria/Ghana/Slovenia/Wales - confirmed via the cross-laptop lineup-coverage audit."
       },
       "2025/2026": {
         "fixtures_fetched": true,
         "match_details": {
-          "status": "complete",
-          "success": 306,
+          "status": "excluded",
+          "success": 56,
           "failed": 0,
           "skipped": 0,
           "related_competition": 0
         },
         "parsed_to_stats": false,
-        "last_updated": "2026-08-11",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
+        "last_updated": "2026-08-13",
+        "updated_by": "manual-exclusion (lineup coverage audit)",
+        "notes": "League excluded from dataset. VERIFIED via direct file inspection (sampled 20 matches per season): coverageLevel='lower' and lineup=null across all seasons scraped. FotMob provides scores/goal events but no lineup, substitution, or player-minutes data for this league. Same pattern as Iraq/Algeria/Ghana/Slovenia/Wales - confirmed via the cross-laptop lineup-coverage audit."
       }
     }
   },
@@ -440,19 +426,19 @@
       }
     }
   },
-  "cro_252": {
-    "league_name": "HNL",
-    "league_id": 252,
-    "country": "CRO",
+  "por_61": {
+    "league_name": "Liga Portugal",
+    "league_id": 61,
+    "country": "POR",
     "seasons": {
       "2022/2023": {
         "fixtures_fetched": true,
         "match_details": {
           "status": "complete",
-          "success": 134,
+          "success": 306,
           "failed": 0,
           "skipped": 0,
-          "related_competition": 46
+          "related_competition": 0
         },
         "parsed_to_stats": false,
         "last_updated": "2026-08-11",
@@ -463,7 +449,7 @@
         "fixtures_fetched": true,
         "match_details": {
           "status": "complete",
-          "success": 180,
+          "success": 306,
           "failed": 0,
           "skipped": 0,
           "related_competition": 0
@@ -477,7 +463,7 @@
         "fixtures_fetched": true,
         "match_details": {
           "status": "complete",
-          "success": 180,
+          "success": 306,
           "failed": 0,
           "skipped": 0,
           "related_competition": 0
@@ -491,7 +477,7 @@
         "fixtures_fetched": true,
         "match_details": {
           "status": "complete",
-          "success": 180,
+          "success": 306,
           "failed": 0,
           "skipped": 0,
           "related_competition": 0
@@ -503,68 +489,22 @@
       }
     }
   },
-  "fra_53": {
-    "league_name": "Ligue 1",
-    "league_id": 53,
-    "country": "FRA",
-    "seasons": {
-      "2023/2024": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": null,
-          "failed": null,
-          "skipped": null
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-07-28",
-        "updated_by": "unknown",
-        "notes": "Seeded from project history - exact match counts not recorded, verify against raw_json/ folder."
-      },
-      "2024/2025": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": null,
-          "failed": null,
-          "skipped": null
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-07-28",
-        "updated_by": "unknown",
-        "notes": "Seeded from project history - exact match counts not recorded, verify against raw_json/ folder."
-      },
-      "2022/2023": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 380,
-          "failed": 0,
-          "skipped": 0
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-09",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      }
-    }
-  },
-  "sco_64": {
-    "league_name": "Premiership",
-    "league_id": 64,
-    "country": "SCO",
+  "rsa_537": {
+    "league_name": "Premier Soccer League",
+    "league_id": 537,
+    "country": "RSA",
     "seasons": {
       "2022/2023": {
         "fixtures_fetched": true,
         "match_details": {
           "status": "complete",
-          "success": 198,
+          "success": 240,
           "failed": 0,
           "skipped": 0,
-          "related_competition": 30
+          "related_competition": 6
         },
         "parsed_to_stats": false,
-        "last_updated": "2026-08-11",
+        "last_updated": "2026-08-13",
         "updated_by": "run_pipeline.py",
         "notes": ""
       },
@@ -572,146 +512,6 @@
         "fixtures_fetched": true,
         "match_details": {
           "status": "complete",
-          "success": 198,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 30
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-11",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      },
-      "2024/2025": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 198,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 30
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-11",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      },
-      "2025/2026": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 198,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 30
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-11",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      }
-    }
-  },
-  "fin_51": {
-    "league_name": "Veikkausliiga",
-    "league_id": 51,
-    "country": "FIN",
-    "seasons": {
-      "2022": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 132,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 35
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-13",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      },
-      "2023": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 132,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 35
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-13",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      },
-      "2024": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 132,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 35
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-13",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      },
-      "2025": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 132,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 45
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-13",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      }
-    }
-  },
-  "tun_544": {
-    "league_name": "Ligue I",
-    "league_id": 544,
-    "country": "TUN",
-    "seasons": {
-      "2022/2023": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "excluded",
-          "success": 112,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 86
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-13",
-        "updated_by": "manual-exclusion (lineup coverage audit, both laptops)",
-        "notes": "Season excluded from dataset. VERIFIED via direct file inspection: this season has coverageLevel='lower' and lineup=null on essentially all matches (sampled 20, confirmed across both laptops where applicable). Other seasons of this league were checked and have real lineup data - FotMob appears to have added genuine coverage for this league starting partway through the tracked window, without backfilling older seasons. This season is excluded; check other seasons of this league for usable data."
-      },
-      "2023/2024": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "excluded",
-          "success": 84,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 86
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-13",
-        "updated_by": "manual-exclusion (lineup coverage audit, both laptops)",
-        "notes": "Season excluded from dataset. VERIFIED via direct file inspection: this season has coverageLevel='lower' and lineup=null on essentially all matches (sampled 20, confirmed across both laptops where applicable). Other seasons of this league were checked and have real lineup data - FotMob appears to have added genuine coverage for this league starting partway through the tracked window, without backfilling older seasons. This season is excluded; check other seasons of this league for usable data."
-      },
-      "2024/2025": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "excluded",
           "success": 240,
           "failed": 0,
           "skipped": 0,
@@ -719,8 +519,22 @@
         },
         "parsed_to_stats": false,
         "last_updated": "2026-08-13",
-        "updated_by": "manual-exclusion (lineup coverage audit, both laptops)",
-        "notes": "Season excluded from dataset. VERIFIED via direct file inspection: this season has coverageLevel='lower' and lineup=null on essentially all matches (sampled 20, confirmed across both laptops where applicable). Other seasons of this league were checked and have real lineup data - FotMob appears to have added genuine coverage for this league starting partway through the tracked window, without backfilling older seasons. This season is excluded; check other seasons of this league for usable data."
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 210,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
       },
       "2025/2026": {
         "fixtures_fetched": true,
@@ -801,6 +615,178 @@
       }
     }
   },
+  "esp_87": {
+    "league_name": "LaLiga",
+    "league_id": 87,
+    "country": "ESP",
+    "seasons": {
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": null,
+          "failed": null,
+          "skipped": null
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-07-28",
+        "updated_by": "unknown",
+        "notes": "Seeded from project history - exact match counts not recorded, verify against raw_json/ folder."
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": null,
+          "failed": null,
+          "skipped": null
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-07-28",
+        "updated_by": "unknown",
+        "notes": "Seeded from project history - exact match counts not recorded, verify against raw_json/ folder."
+      },
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 380,
+          "failed": 0,
+          "skipped": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-10",
+        "updated_by": "manual-fix (verified against raw_json/)",
+        "notes": "Corrected after manual cleanup outside run_pipeline.py; verified file count in raw_json/."
+      }
+    }
+  },
+  "chn_120": {
+    "league_name": "Super League",
+    "league_id": 120,
+    "country": "CHN",
+    "seasons": {
+      "2022": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 306,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "egy_519": {
+    "league_name": "Premier League",
+    "league_id": 519,
+    "country": "EGY",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 306,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 306,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 153,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 72
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 210,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 112
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
   "isr_127": {
     "league_name": "Ligat ha'Al",
     "league_id": 127,
@@ -864,16 +850,16 @@
       }
     }
   },
-  "gre_135": {
-    "league_name": "Super League 1",
-    "league_id": 135,
-    "country": "GRE",
+  "jpn_223": {
+    "league_name": "J. League",
+    "league_id": 223,
+    "country": "JPN",
     "seasons": {
-      "2022/2023": {
+      "2022": {
         "fixtures_fetched": true,
         "match_details": {
           "status": "complete",
-          "success": 240,
+          "success": 306,
           "failed": 0,
           "skipped": 0,
           "related_competition": 0
@@ -883,11 +869,11 @@
         "updated_by": "run_pipeline.py",
         "notes": ""
       },
-      "2023/2024": {
+      "2023": {
         "fixtures_fetched": true,
         "match_details": {
           "status": "complete",
-          "success": 240,
+          "success": 306,
           "failed": 0,
           "skipped": 0,
           "related_competition": 0
@@ -897,142 +883,457 @@
         "updated_by": "run_pipeline.py",
         "notes": ""
       },
-      "2024/2025": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 236,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 0
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-12",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      },
-      "2025/2026": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 236,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 0
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-12",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      }
-    }
-  },
-  "cze_122": {
-    "league_name": "1. Liga",
-    "league_id": 122,
-    "country": "CZE",
-    "seasons": {
-      "2022/2023": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 240,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 36
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-11",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      },
-      "2023/2024": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 240,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 37
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-11",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      },
-      "2024/2025": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 240,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 36
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-11",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      },
-      "2025/2026": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 240,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 36
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-11",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      }
-    }
-  },
-  "esp_87": {
-    "league_name": "LaLiga",
-    "league_id": 87,
-    "country": "ESP",
-    "seasons": {
-      "2023/2024": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": null,
-          "failed": null,
-          "skipped": null
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-07-28",
-        "updated_by": "unknown",
-        "notes": "Seeded from project history - exact match counts not recorded, verify against raw_json/ folder."
-      },
-      "2024/2025": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": null,
-          "failed": null,
-          "skipped": null
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-07-28",
-        "updated_by": "unknown",
-        "notes": "Seeded from project history - exact match counts not recorded, verify against raw_json/ folder."
-      },
-      "2022/2023": {
+      "2024": {
         "fixtures_fetched": true,
         "match_details": {
           "status": "complete",
           "success": 380,
           "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-12",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 380,
+          "failed": 0,
+          "skipped": 379,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "manual-fix (recounted after --force retry of timeout failures)",
+        "notes": "Recounted from raw_json after retrying 1 timeout-failed match (connection switch mid-run)."
+      }
+    }
+  },
+  "sco_64": {
+    "league_name": "Premiership",
+    "league_id": 64,
+    "country": "SCO",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 198,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 30
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 198,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 30
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 198,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 30
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 198,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 30
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "alg_516": {
+    "league_name": "Ligue 1",
+    "league_id": 516,
+    "country": "ALG",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "excluded",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "manual-exclusion (lineup coverage audit, both laptops)",
+        "notes": "League excluded from dataset. VERIFIED via direct file inspection (sampled 20 matches per season across both laptops' scrapes, cross-checked): matches have coverageLevel='lower' and lineup=null across all/nearly all seasons. FotMob provides scores/goal events but no lineup, substitution, or player-minutes data for this league. Even matches that scrape 'successfully' by pipeline classification (correct league, finished=true) are useless for fatigue tracking - there's no player-level data to extract. This gap is invisible to success/failed counts, which is why it wasn't caught until a dedicated lineup-presence audit was run."
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "excluded",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "manual-exclusion (lineup coverage audit, both laptops)",
+        "notes": "League excluded from dataset. VERIFIED via direct file inspection (sampled 20 matches per season across both laptops' scrapes, cross-checked): matches have coverageLevel='lower' and lineup=null across all/nearly all seasons. FotMob provides scores/goal events but no lineup, substitution, or player-minutes data for this league. Even matches that scrape 'successfully' by pipeline classification (correct league, finished=true) are useless for fatigue tracking - there's no player-level data to extract. This gap is invisible to success/failed counts, which is why it wasn't caught until a dedicated lineup-presence audit was run."
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "excluded",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "manual-exclusion (lineup coverage audit, both laptops)",
+        "notes": "League excluded from dataset. VERIFIED via direct file inspection (sampled 20 matches per season across both laptops' scrapes, cross-checked): matches have coverageLevel='lower' and lineup=null across all/nearly all seasons. FotMob provides scores/goal events but no lineup, substitution, or player-minutes data for this league. Even matches that scrape 'successfully' by pipeline classification (correct league, finished=true) are useless for fatigue tracking - there's no player-level data to extract. This gap is invisible to success/failed counts, which is why it wasn't caught until a dedicated lineup-presence audit was run."
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "excluded",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "manual-exclusion (lineup coverage audit, both laptops)",
+        "notes": "League excluded from dataset. VERIFIED via direct file inspection (sampled 20 matches per season across both laptops' scrapes, cross-checked): matches have coverageLevel='lower' and lineup=null across all/nearly all seasons. FotMob provides scores/goal events but no lineup, substitution, or player-minutes data for this league. Even matches that scrape 'successfully' by pipeline classification (correct league, finished=true) are useless for fatigue tracking - there's no player-level data to extract. This gap is invisible to success/failed counts, which is why it wasn't caught until a dedicated lineup-presence audit was run."
+      }
+    }
+  },
+  "srb_182": {
+    "league_name": "Super Liga",
+    "league_id": 182,
+    "country": "SRB",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "excluded",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 60
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "manual-exclusion (lineup coverage audit, both laptops)",
+        "notes": "Season excluded from dataset. VERIFIED via direct file inspection: this season has coverageLevel='lower' and lineup=null on essentially all matches (sampled 20, confirmed across both laptops where applicable). Other seasons of this league were checked and have real lineup data - FotMob appears to have added genuine coverage for this league starting partway through the tracked window, without backfilling older seasons. This season is excluded; check other seasons of this league for usable data."
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "excluded",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 56
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "manual-exclusion (lineup coverage audit, both laptops)",
+        "notes": "Season excluded from dataset. VERIFIED via direct file inspection: this season has coverageLevel='lower' and lineup=null on essentially all matches (sampled 20, confirmed across both laptops where applicable). Other seasons of this league were checked and have real lineup data - FotMob appears to have added genuine coverage for this league starting partway through the tracked window, without backfilling older seasons. This season is excluded; check other seasons of this league for usable data."
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "excluded",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 56
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "manual-exclusion (lineup coverage audit, both laptops)",
+        "notes": "Season excluded from dataset. VERIFIED via direct file inspection: this season has coverageLevel='lower' and lineup=null on essentially all matches (sampled 20, confirmed across both laptops where applicable). Other seasons of this league were checked and have real lineup data - FotMob appears to have added genuine coverage for this league starting partway through the tracked window, without backfilling older seasons. This season is excluded; check other seasons of this league for usable data."
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 296,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-12",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "swe_67": {
+    "league_name": "Allsvenskan",
+    "league_id": 67,
+    "country": "SWE",
+    "seasons": {
+      "2022": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "ger_54": {
+    "league_name": "Bundesliga",
+    "league_id": 54,
+    "country": "GER",
+    "seasons": {
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": null,
+          "failed": null,
+          "skipped": null
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-07-28",
+        "updated_by": "unknown",
+        "notes": "Seeded from project history - exact match counts not recorded, verify against raw_json/ folder."
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": null,
+          "failed": null,
+          "skipped": null
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-07-28",
+        "updated_by": "unknown",
+        "notes": "Seeded from project history - exact match counts not recorded, verify against raw_json/ folder."
+      },
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 306,
+          "failed": 0,
           "skipped": 0
         },
         "parsed_to_stats": false,
-        "last_updated": "2026-08-10",
-        "updated_by": "manual-fix (verified against raw_json/)",
-        "notes": "Corrected after manual cleanup outside run_pipeline.py; verified file count in raw_json/."
+        "last_updated": "2026-08-09",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "den_46": {
+    "league_name": "Superligaen",
+    "league_id": 46,
+    "country": "DEN",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 132,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 61
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 132,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 61
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 132,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 61
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 132,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 61
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "eng_48": {
+    "league_name": "Championship",
+    "league_id": 48,
+    "country": "ENG",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 553,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 5
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 552,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 5
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 552,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 5
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 555,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 3
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
       }
     }
   },
@@ -1162,22 +1463,68 @@
       }
     }
   },
-  "nor_59": {
-    "league_name": "Eliteserien",
-    "league_id": 59,
-    "country": "NOR",
+  "fra_53": {
+    "league_name": "Ligue 1",
+    "league_id": 53,
+    "country": "FRA",
+    "seasons": {
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": null,
+          "failed": null,
+          "skipped": null
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-07-28",
+        "updated_by": "unknown",
+        "notes": "Seeded from project history - exact match counts not recorded, verify against raw_json/ folder."
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": null,
+          "failed": null,
+          "skipped": null
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-07-28",
+        "updated_by": "unknown",
+        "notes": "Seeded from project history - exact match counts not recorded, verify against raw_json/ folder."
+      },
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 380,
+          "failed": 0,
+          "skipped": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-09",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "fin_51": {
+    "league_name": "Veikkausliiga",
+    "league_id": 51,
+    "country": "FIN",
     "seasons": {
       "2022": {
         "fixtures_fetched": true,
         "match_details": {
           "status": "complete",
-          "success": 240,
+          "success": 132,
           "failed": 0,
           "skipped": 0,
-          "related_competition": 0
+          "related_competition": 35
         },
         "parsed_to_stats": false,
-        "last_updated": "2026-08-12",
+        "last_updated": "2026-08-13",
         "updated_by": "run_pipeline.py",
         "notes": ""
       },
@@ -1185,13 +1532,13 @@
         "fixtures_fetched": true,
         "match_details": {
           "status": "complete",
-          "success": 240,
+          "success": 132,
           "failed": 0,
           "skipped": 0,
-          "related_competition": 0
+          "related_competition": 35
         },
         "parsed_to_stats": false,
-        "last_updated": "2026-08-12",
+        "last_updated": "2026-08-13",
         "updated_by": "run_pipeline.py",
         "notes": ""
       },
@@ -1199,13 +1546,13 @@
         "fixtures_fetched": true,
         "match_details": {
           "status": "complete",
-          "success": 241,
+          "success": 132,
           "failed": 0,
           "skipped": 0,
-          "related_competition": 0
+          "related_competition": 35
         },
         "parsed_to_stats": false,
-        "last_updated": "2026-08-12",
+        "last_updated": "2026-08-13",
         "updated_by": "run_pipeline.py",
         "notes": ""
       },
@@ -1213,94 +1560,77 @@
         "fixtures_fetched": true,
         "match_details": {
           "status": "complete",
-          "success": 240,
+          "success": 132,
           "failed": 0,
           "skipped": 0,
-          "related_competition": 0
+          "related_competition": 45
         },
         "parsed_to_stats": false,
-        "last_updated": "2026-08-12",
+        "last_updated": "2026-08-13",
         "updated_by": "run_pipeline.py",
         "notes": ""
       }
     }
   },
-  "jpn_223": {
-    "league_name": "J. League",
-    "league_id": 223,
-    "country": "JPN",
+  "ita_55": {
+    "league_name": "Serie A",
+    "league_id": 55,
+    "country": "ITA",
     "seasons": {
-      "2022": {
+      "2023/2024": {
         "fixtures_fetched": true,
         "match_details": {
           "status": "complete",
-          "success": 306,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 0
+          "success": null,
+          "failed": null,
+          "skipped": null
         },
         "parsed_to_stats": false,
-        "last_updated": "2026-08-12",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
+        "last_updated": "2026-07-28",
+        "updated_by": "unknown",
+        "notes": "Seeded from project history - exact match counts not recorded, verify against raw_json/ folder."
       },
-      "2023": {
+      "2024/2025": {
         "fixtures_fetched": true,
         "match_details": {
           "status": "complete",
-          "success": 306,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 0
+          "success": null,
+          "failed": null,
+          "skipped": null
         },
         "parsed_to_stats": false,
-        "last_updated": "2026-08-12",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
+        "last_updated": "2026-07-28",
+        "updated_by": "unknown",
+        "notes": "Seeded from project history - exact match counts not recorded, verify against raw_json/ folder."
       },
-      "2024": {
+      "2022/2023": {
         "fixtures_fetched": true,
         "match_details": {
           "status": "complete",
           "success": 380,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 0
+          "failed": 1,
+          "skipped": 0
         },
         "parsed_to_stats": false,
-        "last_updated": "2026-08-12",
+        "last_updated": "2026-08-09",
         "updated_by": "run_pipeline.py",
         "notes": ""
-      },
-      "2025": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 380,
-          "failed": 0,
-          "skipped": 379,
-          "related_competition": 0
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-13",
-        "updated_by": "manual-fix (recounted after --force retry of timeout failures)",
-        "notes": "Recounted from raw_json after retrying 1 timeout-failed match (connection switch mid-run)."
       }
     }
   },
-  "svn_173": {
-    "league_name": "Prva Liga",
-    "league_id": 173,
-    "country": "SVN",
+  "wal_116": {
+    "league_name": "Cymru Premier",
+    "league_id": 116,
+    "country": "WAL",
     "seasons": {
       "2022/2023": {
         "fixtures_fetched": true,
         "match_details": {
           "status": "excluded",
-          "success": 180,
+          "success": 132,
           "failed": 0,
           "skipped": 0,
-          "related_competition": 0
+          "related_competition": 64
         },
         "parsed_to_stats": false,
         "last_updated": "2026-08-13",
@@ -1311,10 +1641,10 @@
         "fixtures_fetched": true,
         "match_details": {
           "status": "excluded",
-          "success": 181,
+          "success": 132,
           "failed": 0,
           "skipped": 0,
-          "related_competition": 0
+          "related_competition": 63
         },
         "parsed_to_stats": false,
         "last_updated": "2026-08-13",
@@ -1325,10 +1655,10 @@
         "fixtures_fetched": true,
         "match_details": {
           "status": "excluded",
-          "success": 180,
+          "success": 135,
           "failed": 0,
           "skipped": 0,
-          "related_competition": 0
+          "related_competition": 64
         },
         "parsed_to_stats": false,
         "last_updated": "2026-08-13",
@@ -1339,204 +1669,15 @@
         "fixtures_fetched": true,
         "match_details": {
           "status": "excluded",
-          "success": 162,
+          "success": 132,
           "failed": 0,
           "skipped": 0,
-          "related_competition": 0
+          "related_competition": 63
         },
         "parsed_to_stats": false,
         "last_updated": "2026-08-13",
         "updated_by": "manual-exclusion (lineup coverage audit, both laptops)",
         "notes": "League excluded from dataset. VERIFIED via direct file inspection (sampled 20 matches per season across both laptops' scrapes, cross-checked): matches have coverageLevel='lower' and lineup=null across all/nearly all seasons. FotMob provides scores/goal events but no lineup, substitution, or player-minutes data for this league. Even matches that scrape 'successfully' by pipeline classification (correct league, finished=true) are useless for fatigue tracking - there's no player-level data to extract. This gap is invisible to success/failed counts, which is why it wasn't caught until a dedicated lineup-presence audit was run."
-      }
-    }
-  },
-  "qat_535": {
-    "league_name": "Qatar Stars League",
-    "league_id": 535,
-    "country": "QAT",
-    "seasons": {
-      "2022/2023": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "excluded",
-          "success": 132,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 0
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-13",
-        "updated_by": "manual-exclusion (lineup coverage audit, both laptops)",
-        "notes": "Season excluded from dataset. VERIFIED via direct file inspection: this season has coverageLevel='lower' and lineup=null on essentially all matches (sampled 20, confirmed across both laptops where applicable). Other seasons of this league were checked and have real lineup data - FotMob appears to have added genuine coverage for this league starting partway through the tracked window, without backfilling older seasons. This season is excluded; check other seasons of this league for usable data."
-      },
-      "2023/2024": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "excluded",
-          "success": 132,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 0
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-13",
-        "updated_by": "manual-exclusion (lineup coverage audit, both laptops)",
-        "notes": "Season excluded from dataset. VERIFIED via direct file inspection: this season has coverageLevel='lower' and lineup=null on essentially all matches (sampled 20, confirmed across both laptops where applicable). Other seasons of this league were checked and have real lineup data - FotMob appears to have added genuine coverage for this league starting partway through the tracked window, without backfilling older seasons. This season is excluded; check other seasons of this league for usable data."
-      },
-      "2024/2025": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "excluded",
-          "success": 132,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 0
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-13",
-        "updated_by": "manual-exclusion (lineup coverage audit, both laptops)",
-        "notes": "Season excluded from dataset. VERIFIED via direct file inspection: this season has coverageLevel='lower' and lineup=null on essentially all matches (sampled 20, confirmed across both laptops where applicable). Other seasons of this league were checked and have real lineup data - FotMob appears to have added genuine coverage for this league starting partway through the tracked window, without backfilling older seasons. This season is excluded; check other seasons of this league for usable data."
-      },
-      "2025/2026": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 132,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 0
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-13",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      }
-    }
-  },
-  "uae_538": {
-    "league_name": "Pro League",
-    "league_id": 538,
-    "country": "UAE",
-    "seasons": {
-      "2022/2023": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 182,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 0
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-13",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      },
-      "2023/2024": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 182,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 0
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-13",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      },
-      "2024/2025": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 182,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 0
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-13",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      },
-      "2025/2026": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 182,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 0
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-13",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      }
-    }
-  },
-  "srb_182": {
-    "league_name": "Super Liga",
-    "league_id": 182,
-    "country": "SRB",
-    "seasons": {
-      "2022/2023": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "excluded",
-          "success": 240,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 60
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-13",
-        "updated_by": "manual-exclusion (lineup coverage audit, both laptops)",
-        "notes": "Season excluded from dataset. VERIFIED via direct file inspection: this season has coverageLevel='lower' and lineup=null on essentially all matches (sampled 20, confirmed across both laptops where applicable). Other seasons of this league were checked and have real lineup data - FotMob appears to have added genuine coverage for this league starting partway through the tracked window, without backfilling older seasons. This season is excluded; check other seasons of this league for usable data."
-      },
-      "2023/2024": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "excluded",
-          "success": 240,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 56
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-13",
-        "updated_by": "manual-exclusion (lineup coverage audit, both laptops)",
-        "notes": "Season excluded from dataset. VERIFIED via direct file inspection: this season has coverageLevel='lower' and lineup=null on essentially all matches (sampled 20, confirmed across both laptops where applicable). Other seasons of this league were checked and have real lineup data - FotMob appears to have added genuine coverage for this league starting partway through the tracked window, without backfilling older seasons. This season is excluded; check other seasons of this league for usable data."
-      },
-      "2024/2025": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "excluded",
-          "success": 240,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 56
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-13",
-        "updated_by": "manual-exclusion (lineup coverage audit, both laptops)",
-        "notes": "Season excluded from dataset. VERIFIED via direct file inspection: this season has coverageLevel='lower' and lineup=null on essentially all matches (sampled 20, confirmed across both laptops where applicable). Other seasons of this league were checked and have real lineup data - FotMob appears to have added genuine coverage for this league starting partway through the tracked window, without backfilling older seasons. This season is excluded; check other seasons of this league for usable data."
-      },
-      "2025/2026": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 296,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 0
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-12",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
       }
     }
   },
@@ -1603,22 +1744,22 @@
       }
     }
   },
-  "svk_176": {
-    "league_name": "1. liga",
-    "league_id": 176,
-    "country": "SVK",
+  "aus_113": {
+    "league_name": "A-League",
+    "league_id": 113,
+    "country": "AUS",
     "seasons": {
       "2022/2023": {
         "fixtures_fetched": true,
         "match_details": {
           "status": "complete",
-          "success": 132,
+          "success": 156,
           "failed": 0,
           "skipped": 0,
-          "related_competition": 63
+          "related_competition": 7
         },
         "parsed_to_stats": false,
-        "last_updated": "2026-08-12",
+        "last_updated": "2026-08-13",
         "updated_by": "run_pipeline.py",
         "notes": ""
       },
@@ -1626,13 +1767,13 @@
         "fixtures_fetched": true,
         "match_details": {
           "status": "complete",
-          "success": 132,
+          "success": 162,
           "failed": 0,
           "skipped": 0,
-          "related_competition": 60
+          "related_competition": 7
         },
         "parsed_to_stats": false,
-        "last_updated": "2026-08-12",
+        "last_updated": "2026-08-13",
         "updated_by": "run_pipeline.py",
         "notes": ""
       },
@@ -1640,13 +1781,13 @@
         "fixtures_fetched": true,
         "match_details": {
           "status": "complete",
-          "success": 132,
+          "success": 169,
           "failed": 0,
           "skipped": 0,
-          "related_competition": 63
+          "related_competition": 7
         },
         "parsed_to_stats": false,
-        "last_updated": "2026-08-12",
+        "last_updated": "2026-08-13",
         "updated_by": "run_pipeline.py",
         "notes": ""
       },
@@ -1654,248 +1795,13 @@
         "fixtures_fetched": true,
         "match_details": {
           "status": "complete",
-          "success": 132,
+          "success": 156,
           "failed": 0,
           "skipped": 0,
-          "related_competition": 60
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-12",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      }
-    }
-  },
-  "swe_67": {
-    "league_name": "Allsvenskan",
-    "league_id": 67,
-    "country": "SWE",
-    "seasons": {
-      "2022": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 240,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 0
+          "related_competition": 7
         },
         "parsed_to_stats": false,
         "last_updated": "2026-08-13",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      },
-      "2023": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 240,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 0
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-13",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      },
-      "2024": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 240,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 0
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-13",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      },
-      "2025": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 240,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 0
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-13",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      }
-    }
-  },
-  "sui_69": {
-    "league_name": "Super League",
-    "league_id": 69,
-    "country": "SUI",
-    "seasons": {
-      "2022/2023": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 180,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 0
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-11",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      },
-      "2023/2024": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 198,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 30
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-11",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      },
-      "2024/2025": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 198,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 30
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-11",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      },
-      "2025/2026": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 199,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 30
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-11",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      }
-    }
-  },
-  "bel_40": {
-    "league_name": "First Division A",
-    "league_id": 40,
-    "country": "BEL",
-    "seasons": {
-      "2022/2023": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 306,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 24
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-11",
-        "updated_by": "manual-fix (recount v3, keyword-based classification)",
-        "notes": "Recounted: classification now based on sub-competition keywords (playoff/group/relegation/etc.) instead of self-calibrated baseline name, which was fragile to fixture ordering and league rebranding."
-      },
-      "2023/2024": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 240,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 73
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-11",
-        "updated_by": "manual-fix (recount v3, keyword-based classification)",
-        "notes": "Recounted: classification now based on sub-competition keywords (playoff/group/relegation/etc.) instead of self-calibrated baseline name, which was fragile to fixture ordering and league rebranding."
-      },
-      "2024/2025": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 240,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 73
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-11",
-        "updated_by": "manual-fix (recount v3, keyword-based classification)",
-        "notes": "Recounted: classification now based on sub-competition keywords (playoff/group/relegation/etc.) instead of self-calibrated baseline name, which was fragile to fixture ordering and league rebranding."
-      },
-      "2025/2026": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 240,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 73
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-11",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      }
-    }
-  },
-  "ita_55": {
-    "league_name": "Serie A",
-    "league_id": 55,
-    "country": "ITA",
-    "seasons": {
-      "2023/2024": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": null,
-          "failed": null,
-          "skipped": null
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-07-28",
-        "updated_by": "unknown",
-        "notes": "Seeded from project history - exact match counts not recorded, verify against raw_json/ folder."
-      },
-      "2024/2025": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": null,
-          "failed": null,
-          "skipped": null
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-07-28",
-        "updated_by": "unknown",
-        "notes": "Seeded from project history - exact match counts not recorded, verify against raw_json/ folder."
-      },
-      "2022/2023": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 380,
-          "failed": 1,
-          "skipped": 0
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-09",
         "updated_by": "run_pipeline.py",
         "notes": ""
       }
@@ -1947,12 +1853,138 @@
       }
     }
   },
-  "ksa_536": {
-    "league_name": "Saudi Pro League",
-    "league_id": 536,
-    "country": "KSA",
+  "svn_173": {
+    "league_name": "Prva Liga",
+    "league_id": 173,
+    "country": "SVN",
     "seasons": {
       "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "excluded",
+          "success": 180,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "manual-exclusion (lineup coverage audit, both laptops)",
+        "notes": "League excluded from dataset. VERIFIED via direct file inspection (sampled 20 matches per season across both laptops' scrapes, cross-checked): matches have coverageLevel='lower' and lineup=null across all/nearly all seasons. FotMob provides scores/goal events but no lineup, substitution, or player-minutes data for this league. Even matches that scrape 'successfully' by pipeline classification (correct league, finished=true) are useless for fatigue tracking - there's no player-level data to extract. This gap is invisible to success/failed counts, which is why it wasn't caught until a dedicated lineup-presence audit was run."
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "excluded",
+          "success": 181,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "manual-exclusion (lineup coverage audit, both laptops)",
+        "notes": "League excluded from dataset. VERIFIED via direct file inspection (sampled 20 matches per season across both laptops' scrapes, cross-checked): matches have coverageLevel='lower' and lineup=null across all/nearly all seasons. FotMob provides scores/goal events but no lineup, substitution, or player-minutes data for this league. Even matches that scrape 'successfully' by pipeline classification (correct league, finished=true) are useless for fatigue tracking - there's no player-level data to extract. This gap is invisible to success/failed counts, which is why it wasn't caught until a dedicated lineup-presence audit was run."
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "excluded",
+          "success": 180,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "manual-exclusion (lineup coverage audit, both laptops)",
+        "notes": "League excluded from dataset. VERIFIED via direct file inspection (sampled 20 matches per season across both laptops' scrapes, cross-checked): matches have coverageLevel='lower' and lineup=null across all/nearly all seasons. FotMob provides scores/goal events but no lineup, substitution, or player-minutes data for this league. Even matches that scrape 'successfully' by pipeline classification (correct league, finished=true) are useless for fatigue tracking - there's no player-level data to extract. This gap is invisible to success/failed counts, which is why it wasn't caught until a dedicated lineup-presence audit was run."
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "excluded",
+          "success": 162,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "manual-exclusion (lineup coverage audit, both laptops)",
+        "notes": "League excluded from dataset. VERIFIED via direct file inspection (sampled 20 matches per season across both laptops' scrapes, cross-checked): matches have coverageLevel='lower' and lineup=null across all/nearly all seasons. FotMob provides scores/goal events but no lineup, substitution, or player-minutes data for this league. Even matches that scrape 'successfully' by pipeline classification (correct league, finished=true) are useless for fatigue tracking - there's no player-level data to extract. This gap is invisible to success/failed counts, which is why it wasn't caught until a dedicated lineup-presence audit was run."
+      }
+    }
+  },
+  "irn_523": {
+    "league_name": "Persian Gulf",
+    "league_id": 523,
+    "country": "IRN",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "excluded",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "manual-exclusion (lineup coverage audit, both laptops)",
+        "notes": "Season excluded from dataset. VERIFIED via direct file inspection: this season has coverageLevel='lower' and lineup=null on essentially all matches (sampled 20, confirmed across both laptops where applicable). Other seasons of this league were checked and have real lineup data - FotMob appears to have added genuine coverage for this league starting partway through the tracked window, without backfilling older seasons. This season is excluded; check other seasons of this league for usable data."
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "excluded",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "manual-exclusion (lineup coverage audit, both laptops)",
+        "notes": "Season excluded from dataset. VERIFIED via direct file inspection: this season has coverageLevel='lower' and lineup=null on essentially all matches (sampled 20, confirmed across both laptops where applicable). Other seasons of this league were checked and have real lineup data - FotMob appears to have added genuine coverage for this league starting partway through the tracked window, without backfilling older seasons. This season is excluded; check other seasons of this league for usable data."
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "excluded",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "manual-exclusion (lineup coverage audit, both laptops)",
+        "notes": "Season excluded from dataset. VERIFIED via direct file inspection: this season has coverageLevel='lower' and lineup=null on essentially all matches (sampled 20, confirmed across both laptops where applicable). Other seasons of this league were checked and have real lineup data - FotMob appears to have added genuine coverage for this league starting partway through the tracked window, without backfilling older seasons. This season is excluded; check other seasons of this league for usable data."
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 180,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "nor_59": {
+    "league_name": "Eliteserien",
+    "league_id": 59,
+    "country": "NOR",
+    "seasons": {
+      "2022": {
         "fixtures_fetched": true,
         "match_details": {
           "status": "complete",
@@ -1962,29 +1994,92 @@
           "related_competition": 0
         },
         "parsed_to_stats": false,
-        "last_updated": "2026-08-11",
-        "updated_by": "manual-fix (recount v3, keyword-based classification)",
-        "notes": "Recounted: classification now based on sub-competition keywords (playoff/group/relegation/etc.) instead of self-calibrated baseline name, which was fragile to fixture ordering and league rebranding."
+        "last_updated": "2026-08-12",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
       },
-      "2023/2024": {
+      "2023": {
         "fixtures_fetched": true,
         "match_details": {
           "status": "complete",
-          "success": 306,
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-12",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 241,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-12",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-12",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "tur_71": {
+    "league_name": "S\u00fcper Lig",
+    "league_id": 71,
+    "country": "TUR",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 342,
           "failed": 0,
           "skipped": 0,
           "related_competition": 0
         },
         "parsed_to_stats": false,
         "last_updated": "2026-08-11",
-        "updated_by": "manual-fix (recount v3, keyword-based classification)",
-        "notes": "Recounted: classification now based on sub-competition keywords (playoff/group/relegation/etc.) instead of self-calibrated baseline name, which was fragile to fixture ordering and league rebranding."
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 380,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
       },
       "2024/2025": {
         "fixtures_fetched": true,
         "match_details": {
           "status": "complete",
-          "success": 306,
+          "success": 342,
           "failed": 0,
           "skipped": 0,
           "related_competition": 0
@@ -2073,128 +2168,19 @@
       }
     }
   },
-  "ger_54": {
-    "league_name": "Bundesliga",
-    "league_id": 54,
-    "country": "GER",
-    "seasons": {
-      "2023/2024": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": null,
-          "failed": null,
-          "skipped": null
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-07-28",
-        "updated_by": "unknown",
-        "notes": "Seeded from project history - exact match counts not recorded, verify against raw_json/ folder."
-      },
-      "2024/2025": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": null,
-          "failed": null,
-          "skipped": null
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-07-28",
-        "updated_by": "unknown",
-        "notes": "Seeded from project history - exact match counts not recorded, verify against raw_json/ folder."
-      },
-      "2022/2023": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 306,
-          "failed": 0,
-          "skipped": 0
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-09",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      }
-    }
-  },
-  "tur_71": {
-    "league_name": "S\u00fcper Lig",
-    "league_id": 71,
-    "country": "TUR",
-    "seasons": {
-      "2022/2023": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 342,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 0
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-11",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      },
-      "2023/2024": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 380,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 0
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-11",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      },
-      "2024/2025": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 342,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 0
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-11",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      },
-      "2025/2026": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 306,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 0
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-11",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      }
-    }
-  },
-  "irn_523": {
-    "league_name": "Persian Gulf",
-    "league_id": 523,
-    "country": "IRN",
+  "tun_544": {
+    "league_name": "Ligue I",
+    "league_id": 544,
+    "country": "TUN",
     "seasons": {
       "2022/2023": {
         "fixtures_fetched": true,
         "match_details": {
           "status": "excluded",
-          "success": 240,
+          "success": 112,
           "failed": 0,
           "skipped": 0,
-          "related_competition": 0
+          "related_competition": 86
         },
         "parsed_to_stats": false,
         "last_updated": "2026-08-13",
@@ -2205,10 +2191,10 @@
         "fixtures_fetched": true,
         "match_details": {
           "status": "excluded",
-          "success": 240,
+          "success": 84,
           "failed": 0,
           "skipped": 0,
-          "related_competition": 0
+          "related_competition": 86
         },
         "parsed_to_stats": false,
         "last_updated": "2026-08-13",
@@ -2233,7 +2219,7 @@
         "fixtures_fetched": true,
         "match_details": {
           "status": "complete",
-          "success": 180,
+          "success": 240,
           "failed": 0,
           "skipped": 0,
           "related_competition": 0
@@ -2245,10 +2231,10 @@
       }
     }
   },
-  "bul_270": {
-    "league_name": "First Professional League",
-    "league_id": 270,
-    "country": "BUL",
+  "cze_122": {
+    "league_name": "1. Liga",
+    "league_id": 122,
+    "country": "CZE",
     "seasons": {
       "2022/2023": {
         "fixtures_fetched": true,
@@ -2257,196 +2243,7 @@
           "success": 240,
           "failed": 0,
           "skipped": 0,
-          "related_competition": 43
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-12",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      },
-      "2023/2024": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 240,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 43
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-12",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      },
-      "2024/2025": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 240,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 53
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-12",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      },
-      "2025/2026": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 240,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 53
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-12",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      }
-    }
-  },
-  "chn_120": {
-    "league_name": "Super League",
-    "league_id": 120,
-    "country": "CHN",
-    "seasons": {
-      "2022": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 306,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 0
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-13",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      },
-      "2023": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 240,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 0
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-13",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      },
-      "2024": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 240,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 0
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-13",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      },
-      "2025": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 240,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 0
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-13",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      }
-    }
-  },
-  "hun_212": {
-    "league_name": "Nemzeti Bajnoks\u00e1g I",
-    "league_id": 212,
-    "country": "HUN",
-    "seasons": {
-      "2022/2023": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 198,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 0
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-12",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      },
-      "2023/2024": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 198,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 0
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-12",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      },
-      "2024/2025": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 198,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 0
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-12",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      },
-      "2025/2026": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 198,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 0
-        },
-        "parsed_to_stats": false,
-        "last_updated": "2026-08-12",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
-      }
-    }
-  },
-  "ned_57": {
-    "league_name": "Eredivisie",
-    "league_id": 57,
-    "country": "NED",
-    "seasons": {
-      "2022/2023": {
-        "fixtures_fetched": true,
-        "match_details": {
-          "status": "complete",
-          "success": 306,
-          "failed": 0,
-          "skipped": 0,
-          "related_competition": 6
+          "related_competition": 36
         },
         "parsed_to_stats": false,
         "last_updated": "2026-08-11",
@@ -2457,10 +2254,10 @@
         "fixtures_fetched": true,
         "match_details": {
           "status": "complete",
-          "success": 306,
+          "success": 240,
           "failed": 0,
           "skipped": 0,
-          "related_competition": 3
+          "related_competition": 37
         },
         "parsed_to_stats": false,
         "last_updated": "2026-08-11",
@@ -2471,10 +2268,10 @@
         "fixtures_fetched": true,
         "match_details": {
           "status": "complete",
-          "success": 306,
+          "success": 240,
           "failed": 0,
           "skipped": 0,
-          "related_competition": 3
+          "related_competition": 36
         },
         "parsed_to_stats": false,
         "last_updated": "2026-08-11",
@@ -2485,10 +2282,10 @@
         "fixtures_fetched": true,
         "match_details": {
           "status": "complete",
-          "success": 306,
+          "success": 240,
           "failed": 0,
           "skipped": 0,
-          "related_competition": 3
+          "related_competition": 36
         },
         "parsed_to_stats": false,
         "last_updated": "2026-08-11",
@@ -2560,61 +2357,61 @@
       }
     }
   },
-  "eng_48": {
-    "league_name": "Championship",
-    "league_id": 48,
-    "country": "ENG",
+  "bel_40": {
+    "league_name": "First Division A",
+    "league_id": 40,
+    "country": "BEL",
     "seasons": {
       "2022/2023": {
         "fixtures_fetched": true,
         "match_details": {
           "status": "complete",
-          "success": 553,
+          "success": 306,
           "failed": 0,
           "skipped": 0,
-          "related_competition": 5
+          "related_competition": 24
         },
         "parsed_to_stats": false,
         "last_updated": "2026-08-11",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
+        "updated_by": "manual-fix (recount v3, keyword-based classification)",
+        "notes": "Recounted: classification now based on sub-competition keywords (playoff/group/relegation/etc.) instead of self-calibrated baseline name, which was fragile to fixture ordering and league rebranding."
       },
       "2023/2024": {
         "fixtures_fetched": true,
         "match_details": {
           "status": "complete",
-          "success": 552,
+          "success": 240,
           "failed": 0,
           "skipped": 0,
-          "related_competition": 5
+          "related_competition": 73
         },
         "parsed_to_stats": false,
         "last_updated": "2026-08-11",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
+        "updated_by": "manual-fix (recount v3, keyword-based classification)",
+        "notes": "Recounted: classification now based on sub-competition keywords (playoff/group/relegation/etc.) instead of self-calibrated baseline name, which was fragile to fixture ordering and league rebranding."
       },
       "2024/2025": {
         "fixtures_fetched": true,
         "match_details": {
           "status": "complete",
-          "success": 552,
+          "success": 240,
           "failed": 0,
           "skipped": 0,
-          "related_competition": 5
+          "related_competition": 73
         },
         "parsed_to_stats": false,
         "last_updated": "2026-08-11",
-        "updated_by": "run_pipeline.py",
-        "notes": ""
+        "updated_by": "manual-fix (recount v3, keyword-based classification)",
+        "notes": "Recounted: classification now based on sub-competition keywords (playoff/group/relegation/etc.) instead of self-calibrated baseline name, which was fragile to fixture ordering and league rebranding."
       },
       "2025/2026": {
         "fixtures_fetched": true,
         "match_details": {
           "status": "complete",
-          "success": 555,
+          "success": 240,
           "failed": 0,
           "skipped": 0,
-          "related_competition": 3
+          "related_competition": 73
         },
         "parsed_to_stats": false,
         "last_updated": "2026-08-11",
@@ -2686,10 +2483,136 @@
       }
     }
   },
-  "wal_116": {
-    "league_name": "Cymru Premier",
-    "league_id": 116,
-    "country": "WAL",
+  "cro_252": {
+    "league_name": "HNL",
+    "league_id": 252,
+    "country": "CRO",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 134,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 46
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 180,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 180,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 180,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "hun_212": {
+    "league_name": "Nemzeti Bajnoks\u00e1g I",
+    "league_id": 212,
+    "country": "HUN",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 198,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-12",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 198,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-12",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 198,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-12",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 198,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-12",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "qat_535": {
+    "league_name": "Qatar Stars League",
+    "league_id": 535,
+    "country": "QAT",
     "seasons": {
       "2022/2023": {
         "fixtures_fetched": true,
@@ -2698,7 +2621,196 @@
           "success": 132,
           "failed": 0,
           "skipped": 0,
-          "related_competition": 64
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "manual-exclusion (lineup coverage audit, both laptops)",
+        "notes": "Season excluded from dataset. VERIFIED via direct file inspection: this season has coverageLevel='lower' and lineup=null on essentially all matches (sampled 20, confirmed across both laptops where applicable). Other seasons of this league were checked and have real lineup data - FotMob appears to have added genuine coverage for this league starting partway through the tracked window, without backfilling older seasons. This season is excluded; check other seasons of this league for usable data."
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "excluded",
+          "success": 132,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "manual-exclusion (lineup coverage audit, both laptops)",
+        "notes": "Season excluded from dataset. VERIFIED via direct file inspection: this season has coverageLevel='lower' and lineup=null on essentially all matches (sampled 20, confirmed across both laptops where applicable). Other seasons of this league were checked and have real lineup data - FotMob appears to have added genuine coverage for this league starting partway through the tracked window, without backfilling older seasons. This season is excluded; check other seasons of this league for usable data."
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "excluded",
+          "success": 132,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "manual-exclusion (lineup coverage audit, both laptops)",
+        "notes": "Season excluded from dataset. VERIFIED via direct file inspection: this season has coverageLevel='lower' and lineup=null on essentially all matches (sampled 20, confirmed across both laptops where applicable). Other seasons of this league were checked and have real lineup data - FotMob appears to have added genuine coverage for this league starting partway through the tracked window, without backfilling older seasons. This season is excluded; check other seasons of this league for usable data."
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 132,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "sui_69": {
+    "league_name": "Super League",
+    "league_id": 69,
+    "country": "SUI",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 180,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 198,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 30
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 198,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 30
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 199,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 30
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "ned_57": {
+    "league_name": "Eredivisie",
+    "league_id": 57,
+    "country": "NED",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 306,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 6
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 306,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 3
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 306,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 3
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 306,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 3
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "gha_522": {
+    "league_name": "Premier League",
+    "league_id": 522,
+    "country": "GHA",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "excluded",
+          "success": 306,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
         },
         "parsed_to_stats": false,
         "last_updated": "2026-08-13",
@@ -2709,10 +2821,10 @@
         "fixtures_fetched": true,
         "match_details": {
           "status": "excluded",
-          "success": 132,
+          "success": 306,
           "failed": 0,
           "skipped": 0,
-          "related_competition": 63
+          "related_competition": 0
         },
         "parsed_to_stats": false,
         "last_updated": "2026-08-13",
@@ -2723,10 +2835,10 @@
         "fixtures_fetched": true,
         "match_details": {
           "status": "excluded",
-          "success": 135,
+          "success": 306,
           "failed": 0,
           "skipped": 0,
-          "related_competition": 64
+          "related_competition": 0
         },
         "parsed_to_stats": false,
         "last_updated": "2026-08-13",
@@ -2737,10 +2849,10 @@
         "fixtures_fetched": true,
         "match_details": {
           "status": "excluded",
-          "success": 132,
+          "success": 306,
           "failed": 0,
           "skipped": 0,
-          "related_competition": 63
+          "related_competition": 0
         },
         "parsed_to_stats": false,
         "last_updated": "2026-08-13",
@@ -2749,10 +2861,10 @@
       }
     }
   },
-  "den_46": {
-    "league_name": "Superligaen",
-    "league_id": 46,
-    "country": "DEN",
+  "svk_176": {
+    "league_name": "1. liga",
+    "league_id": 176,
+    "country": "SVK",
     "seasons": {
       "2022/2023": {
         "fixtures_fetched": true,
@@ -2761,10 +2873,10 @@
           "success": 132,
           "failed": 0,
           "skipped": 0,
-          "related_competition": 61
+          "related_competition": 63
         },
         "parsed_to_stats": false,
-        "last_updated": "2026-08-11",
+        "last_updated": "2026-08-12",
         "updated_by": "run_pipeline.py",
         "notes": ""
       },
@@ -2775,10 +2887,10 @@
           "success": 132,
           "failed": 0,
           "skipped": 0,
-          "related_competition": 61
+          "related_competition": 60
         },
         "parsed_to_stats": false,
-        "last_updated": "2026-08-11",
+        "last_updated": "2026-08-12",
         "updated_by": "run_pipeline.py",
         "notes": ""
       },
@@ -2789,10 +2901,10 @@
           "success": 132,
           "failed": 0,
           "skipped": 0,
-          "related_competition": 61
+          "related_competition": 63
         },
         "parsed_to_stats": false,
-        "last_updated": "2026-08-11",
+        "last_updated": "2026-08-12",
         "updated_by": "run_pipeline.py",
         "notes": ""
       },
@@ -2803,10 +2915,262 @@
           "success": 132,
           "failed": 0,
           "skipped": 0,
-          "related_competition": 61
+          "related_competition": 60
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-12",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "bul_270": {
+    "league_name": "First Professional League",
+    "league_id": 270,
+    "country": "BUL",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 43
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-12",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 43
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-12",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 53
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-12",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 53
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-12",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "ksa_536": {
+    "league_name": "Saudi Pro League",
+    "league_id": 536,
+    "country": "KSA",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
         },
         "parsed_to_stats": false,
         "last_updated": "2026-08-11",
+        "updated_by": "manual-fix (recount v3, keyword-based classification)",
+        "notes": "Recounted: classification now based on sub-competition keywords (playoff/group/relegation/etc.) instead of self-calibrated baseline name, which was fragile to fixture ordering and league rebranding."
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 306,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "manual-fix (recount v3, keyword-based classification)",
+        "notes": "Recounted: classification now based on sub-competition keywords (playoff/group/relegation/etc.) instead of self-calibrated baseline name, which was fragile to fixture ordering and league rebranding."
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 306,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 306,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-11",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "uae_538": {
+    "league_name": "Pro League",
+    "league_id": 538,
+    "country": "UAE",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 182,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 182,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 182,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 182,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-13",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      }
+    }
+  },
+  "gre_135": {
+    "league_name": "Super League 1",
+    "league_id": 135,
+    "country": "GRE",
+    "seasons": {
+      "2022/2023": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-12",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2023/2024": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 240,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-12",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2024/2025": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 236,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-12",
+        "updated_by": "run_pipeline.py",
+        "notes": ""
+      },
+      "2025/2026": {
+        "fixtures_fetched": true,
+        "match_details": {
+          "status": "complete",
+          "success": 236,
+          "failed": 0,
+          "skipped": 0,
+          "related_competition": 0
+        },
+        "parsed_to_stats": false,
+        "last_updated": "2026-08-12",
         "updated_by": "run_pipeline.py",
         "notes": ""
       }
